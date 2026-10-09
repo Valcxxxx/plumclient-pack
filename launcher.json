@@ -11,28 +11,8 @@
       "url": "https://x.com/Valcxxx__"
     }
   ],
-  "generado": "2026-10-09T07:02:49.757Z",
+  "generado": "2026-10-09T07:14:27.129Z",
   "instancias": [
-    {
-      "id": "halloween-event",
-      "nombre": "Halloween Event",
-      "descripcion": "Una instancia de prueba con Fabric. Cambia este texto, la imagen y los mods para tu primer evento.",
-      "imagen": "instancias/halloween-event/portada.png",
-      "logo": "",
-      "minecraft": "1.21.1",
-      "loader": "fabric",
-      "loaderVersion": "0.16.5",
-      "servidor": "",
-      "estado": "abierto",
-      "oculto": true,
-      "soloPremium": false,
-      "ramMinima": 0,
-      "mods": 0,
-      "manifest": "instancias/halloween-event/manifest.json",
-      "protegido": false,
-      "whitelist": [],
-      "bloqueada": false
-    },
     {
       "id": "squids",
       "nombre": "Squids",
