@@ -11,19 +11,19 @@
       "url": "https://x.com/Valcxxx__"
     }
   ],
-  "generado": "2026-10-09T18:29:06.104Z",
+  "generado": "2026-10-09T22:57:49.819Z",
   "instancias": [
     {
       "id": "squids",
       "nombre": "Squids",
-      "descripcion": "Evento por 5 cupos para CHAFASAFIO, presta atencion a las reglas...",
+      "descripcion": "Squid AG Games",
       "imagen": "instancias/squids/portada.png",
       "logo": "instancias/squids/logo.png",
       "minecraft": "1.20.1",
       "loader": "forge",
       "loaderVersion": "47.4.10",
       "servidor": "172.96.143.37:30134",
-      "estado": "abierto",
+      "estado": "cerrado",
       "oculto": false,
       "soloPremium": false,
       "ramMinima": 4096,
@@ -32,10 +32,50 @@
       "protegido": true,
       "keySalt": "595774808431a3d4bd5f6f705f3a5e44",
       "borrarAlCerrar": true,
-      "whitelist": [],
+      "whitelistSalt": "d19fe2d291fedcc363f6fa7718dd2cde",
+      "whitelist": [
+        "16747e306ac29fb2a9a908530c312d55458ffb650872893941e968135029245e",
+        "9eb0b9fa7214eaff619903e570cbd6092dbd92da84c818abc0ce9b100cea857e"
+      ],
+      "visibleSoloWhitelist": true,
       "bloqueada": true,
       "passSalt": "94236d200c7d55ad31e898e4734ce0ba",
-      "hash": "3941f026f1cd731130c134b7a58889a0a9b8c4583027366121cd2f94c8ec45c3"
+      "hash": "23f903308d2c7484cba53159d39306991b7690dfa74c9a764d23e75552064c6f"
+    },
+    {
+      "id": "chafasafio",
+      "nombre": "ChafaSafio 3",
+      "descripcion": "Instancia de desarrollo para ChafaSafio 3.",
+      "imagen": "instancias/chafasafio/portada.png",
+      "logo": "instancias/chafasafio/logo.png",
+      "minecraft": "1.20.1",
+      "loader": "forge",
+      "loaderVersion": "47.4.10",
+      "servidor": "",
+      "estado": "pronto",
+      "oculto": false,
+      "soloPremium": false,
+      "ramMinima": 4096,
+      "mods": 56,
+      "manifest": "instancias/chafasafio/manifest.enc",
+      "protegido": true,
+      "keySalt": "83b5f22aa377ab829fa2616adcc66935",
+      "borrarAlCerrar": true,
+      "whitelistSalt": "bd2339b1381428e342dcd2ad87fbcaf6",
+      "whitelist": [
+        "5248c8507646ea822e693eab394e9d5fa11fcbd69a15f439bef7c758e0f82f2a",
+        "976bf21a0bacd745fc13b717a2ae0a6eb9d5c623fbb7eb42d0ea7cb3c5f955b6",
+        "21882ff65340af422d51bc0837a31755634eb6d3ab47832eb49aacc82facc83a",
+        "a91cc36d250e6531e9e502eb61fdf78989435f7450e6ecc3a38b9dfa950b88dc",
+        "aef1826f6a62b44d3b4d2b8169dde014a565c2ad391fb7907ab08dafee3b5454",
+        "8dfeeda9e6cadc417d53acbf96f30018fa39912b43555fba3592528785f997ec",
+        "f85173c531e4dace83fccbb19b2c6dd41259ceec66dc86cc15ebd5d0e6b7e863",
+        "9594abf46e4b62ab26413fc4bedea669fcf74c05a7d00c6635d792e949e22c86"
+      ],
+      "visibleSoloWhitelist": false,
+      "bloqueada": true,
+      "passSalt": "c7b8ab3066a3094e5c77613d54189192",
+      "hash": "12824060bbf668e5469ce00f5a1e4cde81c54ea8eb1a2b1ff95e4ca34b086640"
     }
   ]
 }
