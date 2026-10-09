@@ -11,7 +11,7 @@
       "url": "https://x.com/Valcxxx__"
     }
   ],
-  "generado": "2026-10-09T22:57:49.819Z",
+  "generado": "2026-10-09T23:09:07.308Z",
   "instancias": [
     {
       "id": "squids",
@@ -52,7 +52,7 @@
       "loader": "forge",
       "loaderVersion": "47.4.10",
       "servidor": "",
-      "estado": "pronto",
+      "estado": "abierto",
       "oculto": false,
       "soloPremium": false,
       "ramMinima": 4096,
@@ -72,7 +72,7 @@
         "f85173c531e4dace83fccbb19b2c6dd41259ceec66dc86cc15ebd5d0e6b7e863",
         "9594abf46e4b62ab26413fc4bedea669fcf74c05a7d00c6635d792e949e22c86"
       ],
-      "visibleSoloWhitelist": false,
+      "visibleSoloWhitelist": true,
       "bloqueada": true,
       "passSalt": "c7b8ab3066a3094e5c77613d54189192",
       "hash": "12824060bbf668e5469ce00f5a1e4cde81c54ea8eb1a2b1ff95e4ca34b086640"
