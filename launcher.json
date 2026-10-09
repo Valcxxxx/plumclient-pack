@@ -1,18 +1,23 @@
 {
-  "nombre": "PlumClient",
+  "nombre": "Ghex Client",
   "fondo": "",
   "discord": {
     "clientId": "1557983743002550374",
     "invitacion": "https://discord.gg/4Y38FcU5sm"
   },
-  "redes": [],
-  "generado": "2026-10-09T04:52:46.943Z",
+  "redes": [
+    {
+      "tipo": "x",
+      "url": "https://x.com/Valcxxx__"
+    }
+  ],
+  "generado": "2026-10-09T06:26:11.081Z",
   "instancias": [
     {
-      "id": "evento-ejemplo",
+      "id": "halloween-event",
       "nombre": "Evento de ejemplo",
-      "descripcion": "Instancia de prueba, despues la organizo",
-      "imagen": "instancias/evento-ejemplo/portada.png",
+      "descripcion": "Una instancia de prueba con Fabric. Cambia este texto, la imagen y los mods para tu primer evento.",
+      "imagen": "instancias/halloween-event/portada.png",
       "minecraft": "1.21.1",
       "loader": "fabric",
       "loaderVersion": "0.16.5",
