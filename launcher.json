@@ -1,0 +1,29 @@
+{
+  "nombre": "PlumClient",
+  "fondo": "",
+  "discord": {
+    "clientId": "",
+    "invitacion": ""
+  },
+  "redes": [],
+  "generado": "2026-10-09T04:52:46.943Z",
+  "instancias": [
+    {
+      "id": "evento-ejemplo",
+      "nombre": "Evento de ejemplo",
+      "descripcion": "Una instancia de prueba con Fabric. Cambia este texto, la imagen y los mods para tu primer evento.",
+      "imagen": "instancias/evento-ejemplo/portada.png",
+      "minecraft": "1.21.1",
+      "loader": "fabric",
+      "loaderVersion": "0.16.5",
+      "servidor": "",
+      "estado": "abierto",
+      "oculto": false,
+      "soloPremium": false,
+      "whitelist": [],
+      "ramMinima": 0,
+      "mods": 0,
+      "bloqueada": false
+    }
+  ]
+}
