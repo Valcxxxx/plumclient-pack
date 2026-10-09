@@ -1,0 +1,12 @@
+{
+  "language.name": "Español",
+  "language.region": "México",
+  "language.code": "es_mx",
+
+  "entity.minecraft.wither": "Blaze Storm",
+  "effect.minecraft.unluck": "Bloqueador",
+  "item.minecraft.nether_star": "Blaze Storm Star",
+  "block.minecraft.wither_skeleton_skull": "Blaze Storm Boomerang",
+  "block.minecraft.wither_skeleton_wall_skull": "Blaze Storm Boomerang",
+  "effect.minecraft.luck": "Atrapado"
+}

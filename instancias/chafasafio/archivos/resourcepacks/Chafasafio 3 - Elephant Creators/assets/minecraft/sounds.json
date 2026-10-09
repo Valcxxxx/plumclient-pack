@@ -1,0 +1,13 @@
+{
+    "ruleta":{
+"sounds":[{"name":"custom_sounds/ruleta","stream":false}],"category":"voice"},
+
+    "nutria":{
+"sounds":[{"name":"custom_sounds/nutria","stream":false}],"category":"voice"},
+    
+    "muerte":{
+"sounds":[{"name":"custom_sounds/muerte","stream":false}],"category":"voice"},
+
+    "reviil":{
+"sounds":[{"name":"custom_sounds/reviil","stream":false}],"category":"voice"}
+}

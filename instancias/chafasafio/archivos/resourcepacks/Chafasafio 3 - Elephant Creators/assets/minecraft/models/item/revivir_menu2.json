@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/menu_revivir2",
+		"particle": "item/menu_revivir2"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 8],
+			"to": [32, 32, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-16, 0, 8]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [-19.25, -75, -5.5],
+			"scale": [4, 6, 1]
+		}
+	}
+}

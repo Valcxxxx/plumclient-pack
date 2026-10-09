@@ -1,0 +1,301 @@
+{
+    "editor": {
+        "duration": 30,
+        "angle_speed": 1.0,
+        "camera_mode": 0,
+        "snap_to_markers": false,
+        "horizontal_flight": false,
+        "speed": 1.0,
+        "player_follows_camera": false,
+        "camera_smoothness": 0.1,
+        "clip_preview": true
+    },
+    "film_preview": {
+        "crosshair": false,
+        "preview_custom_height": 720,
+        "preview_size_mode": 0,
+        "rule_of_thirds": false,
+        "onion_skin": {
+            "all": false,
+            "pre_frames": 1,
+            "pre_color": -1140899751,
+            "post_frames": 1,
+            "enabled": false,
+            "post_color": -1151739584,
+            "group": "pose"
+        },
+        "guides_color": -859045888,
+        "preview_resolution_scale": 2.0,
+        "center_lines": false,
+        "preview_custom_width": 1280
+    },
+    "chroma_sky": {
+        "color": 0,
+        "billboard": 0.0,
+        "terrain": true,
+        "enabled": false
+    },
+    "recording": {
+        "swipe_damage": false,
+        "overlays": true,
+        "countdown": 1.5,
+        "camera_preview": true
+    },
+    "multiskin": {
+        "multithreaded": true
+    },
+    "video": {
+        "arguments_audio": "-f rawvideo -pix_fmt bgr24 -s %WIDTH%x%HEIGHT% -r %FPS% -i - -i %AUDIO_TRACK% -vf %FILTERS% -c:v libx264 -preset ultrafast -tune zerolatency -qp 18 -pix_fmt yuv420p -c:a aac -b:a 128k -shortest %NAME%.mp4",
+        "log": true,
+        "limit_frame_rate": false,
+        "mute_audio_while_render": false,
+        "frame_rate": 60,
+        "open_folder_after_export": false,
+        "world_export_resize_window": false,
+        "export_path": "",
+        "delay": 0.5,
+        "play_sound_after_export": true,
+        "motion_blur": 0,
+        "encoder_path": "ffmpeg",
+        "width": 1280,
+        "held_frames": 1,
+        "arguments": "-f rawvideo -pix_fmt bgr24 -s %WIDTH%x%HEIGHT% -r %FPS% -i - -vf %FILTERS% -c:v libx264 -preset ultrafast -tune zerolatency -qp 18 -pix_fmt yuv420p %NAME%.mp4",
+        "audio": false,
+        "wait_chunks": true,
+        "height": 720
+    },
+    "transformation": {
+        "axes_thickness": 0.6,
+        "rotate_3d_sphere_mode": 0,
+        "pose_mirror_edit": false,
+        "snap_scale": 0.1,
+        "axes_keep_screen_size": true,
+        "pose_alternate_invert": false,
+        "pose_show_disabled_bones": false,
+        "hide_inactive_handles": true,
+        "gizmo_opacity": 1.0,
+        "plane_size": 1.0,
+        "space": 0,
+        "trackball_sensitivity": 1.0,
+        "snap_translate": 1.0,
+        "snap_rotate": 5.0,
+        "gizmos": true,
+        "axes_scale": 1.5,
+        "gizmo_elements": 31
+    },
+    "cdn": {
+        "url": "",
+        "token": ""
+    },
+    "model_blocks": {
+        "render_all": true,
+        "click": true
+    },
+    "personalization": {
+        "hide_shadows": false,
+        "hide_tooltips": false,
+        "secondary_color": 1909031,
+        "primary_color": 35071,
+        "stencil_highlight_color": 788529151,
+        "keyframe_default_shape": 0,
+        "track_width": 2
+    },
+    "film_editor": {
+        "periodic_save": 60,
+        "orbit_center_marker": false,
+        "rewind": true,
+        "timeline_grid": false,
+        "loop": false,
+        "minutes_backup": true,
+        "anchor_keep_transform": true,
+        "editor_layout": {
+            "film_layouts_separate": true,
+            "particle_layout": {
+                "type": "splitter",
+                "dir": "v",
+                "first": {
+                    "ids": ["general", "emitter", "particle", "appearance"],
+                    "active": "general",
+                    "type": "stack"
+                },
+                "ratio": 0.22446808,
+                "second": {
+                    "type": "splitter",
+                    "dir": "h",
+                    "first": {
+                        "id": "preview",
+                        "type": "panel"
+                    },
+                    "ratio": 0.7408994,
+                    "second": {
+                        "id": "molang",
+                        "type": "panel"
+                    }
+                }
+            },
+            "film_layout": {
+                "type": "splitter",
+                "dir": "v",
+                "first": {
+                    "ids": ["properties", "replaysList"],
+                    "active": "properties",
+                    "type": "stack"
+                },
+                "ratio": 0.190625,
+                "second": {
+                    "type": "splitter",
+                    "dir": "h",
+                    "first": {
+                        "type": "splitter",
+                        "dir": "v",
+                        "first": {
+                            "id": "preview",
+                            "type": "panel"
+                        },
+                        "ratio": 0.65667915,
+                        "second": {
+                            "id": "dopesheet",
+                            "type": "panel"
+                        }
+                    },
+                    "ratio": 0.6873662,
+                    "second": {
+                        "id": "clipEditor",
+                        "type": "panel"
+                    }
+                }
+            },
+            "film_editor_layouts": {
+                "replay": {
+                    "type": "splitter",
+                    "dir": "v",
+                    "first": {
+                        "type": "splitter",
+                        "dir": "h",
+                        "first": {
+                            "type": "splitter",
+                            "dir": "v",
+                            "first": {
+                                "id": "replaysList",
+                                "type": "panel"
+                            },
+                            "ratio": 0.28010824,
+                            "second": {
+                                "id": "preview",
+                                "type": "panel"
+                            }
+                        },
+                        "ratio": 0.6124197,
+                        "second": {
+                            "ids": ["dopesheet", "clipEditor"],
+                            "active": "dopesheet",
+                            "type": "stack"
+                        }
+                    },
+                    "ratio": 0.80833334,
+                    "second": {
+                        "id": "properties",
+                        "type": "panel"
+                    }
+                },
+                "camera": {
+                    "type": "splitter",
+                    "dir": "v",
+                    "first": {
+                        "type": "splitter",
+                        "dir": "h",
+                        "first": {
+                            "type": "splitter",
+                            "dir": "v",
+                            "first": {
+                                "ids": ["replaysList", "dopesheet"],
+                                "active": "dopesheet",
+                                "type": "stack"
+                            },
+                            "ratio": 0.39659685,
+                            "second": {
+                                "id": "preview",
+                                "type": "panel"
+                            }
+                        },
+                        "ratio": 0.5588865,
+                        "second": {
+                            "id": "clipEditor",
+                            "type": "panel"
+                        }
+                    },
+                    "ratio": 0.79583335,
+                    "second": {
+                        "id": "properties",
+                        "type": "panel"
+                    }
+                }
+            },
+            "state_editor_size_v": 0.25
+        },
+        "orbit_teleport_on_switch": true,
+        "jump": 5
+    },
+    "appearance": {
+        "freeze_models": false,
+        "disable_smart_culling": false,
+        "tab_bar": true,
+        "keyframe_tooltip": true,
+        "ui_scale": 2,
+        "language": "",
+        "click_sound": false,
+        "trackpad_scrolling": true,
+        "fov": 70.0,
+        "favorite_colors": [],
+        "cache_form_thumbnails": true,
+        "trackpad_increments": true,
+        "fix_core_shader_opacity": false,
+        "morphing_focus_search": false,
+        "texture_favorites": [],
+        "disabled_morph_form_categories": [],
+        "force_qwerty": false,
+        "uniform_scale": false
+    },
+    "scrollbars": {
+        "sensitivity_horizontal": 1.0,
+        "smoothness": true,
+        "width": 4,
+        "disable_smoothness_in_editors": false,
+        "sensitivity": 1.0
+    },
+    "shader_curves": {
+        "all_floats": true,
+        "enabled": true
+    },
+    "tutorials": {
+        "cursor": false,
+        "mouse_buttons": false,
+        "keystrokes_offset": 10,
+        "keystrokes": false,
+        "help_button": true,
+        "welcome_shown": true,
+        "keystrokes_position": 1
+    },
+    "background": {
+        "color": -1157627904
+    },
+    "entity_selectors": {
+        "whitelist": "CustomName,Name"
+    },
+    "audio": {
+        "waveform_visible_preview": true,
+        "waveform_density": 20,
+        "waveform_width": 0.8,
+        "waveform_height": 24,
+        "waveform_time": false,
+        "waveform_preview_combined": false,
+        "waveform_filename": false,
+        "waveform_visible_keyframes": true
+    },
+    "particles": {
+        "depth_sorting": false
+    },
+    "dc": {
+        "enabled": true
+    }
+}

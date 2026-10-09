@@ -1,0 +1,267 @@
+{
+	"bs.alone": {
+		"sounds": [
+			"dedsafio:bs/alone"
+		]
+	},
+                 "bs.alone2": {
+		"sounds": [
+			"dedsafio:bs/alone2"
+		]
+	},
+                 "bs.battle_end": {
+		"sounds": [
+			"dedsafio:bs/battle_end"
+		]
+	},
+                 "bs.battle_music": {
+		"sounds": [
+			"dedsafio:bs/battle_music"
+		]
+	},
+                 "bs.confusion": {
+		"sounds": [
+			"dedsafio:bs/confusion"
+		]
+	},
+                 "bs.ded_intro": {
+		"sounds": [
+			"dedsafio:bs/ded_intro"
+		]
+	},
+                 "bs.dia_del_platano": {
+		"sounds": [
+			"dedsafio:bs/dia_del_platano"
+		]
+	},
+                 "bs.drums": {
+		"sounds": [
+			"dedsafio:bs/drums"
+		]
+	},
+                 "bs.fanatica": {
+		"sounds": [
+			"dedsafio:bs/fanatica"
+		]
+	},
+                 "bs.gulag_song": {
+		"sounds": [
+			"dedsafio:bs/gulag_song"
+		]
+	},
+                 "bs.no_time": {
+		"sounds": [
+			"dedsafio:bs/no_time"
+		]
+	},
+                 "bs.no_time2": {
+		"sounds": [
+			"dedsafio:bs/no_time2"
+		]
+	},
+                 "bs.payetayupaayetayupa": {
+		"sounds": [
+			"dedsafio:bs/payetayupaayetayupa"
+		]
+	},
+                 "bs.putin_walk": {
+		"sounds": [
+			"dedsafio:bs/putin_walk"
+		]
+	},
+                 "sfx.5s": {
+		"sounds": [
+			"dedsafio:sfx/5s"
+		]
+	},
+                 "sfx.aiming": {
+		"sounds": [
+			"dedsafio:sfx/aiming"
+		]
+	},
+                 "sfx.bells": {
+		"sounds": [
+			"dedsafio:sfx/bells"
+		]
+	},
+                 "sfx.boxing_bell": {
+		"sounds": [
+			"dedsafio:sfx/boxing_bell"
+		]
+	},
+                 "sfx.darkness": {
+		"sounds": [
+			"dedsafio:sfx/darkness"
+		]
+	},
+                 "sfx.daze": {
+		"sounds": [
+			"dedsafio:sfx/daze"
+		]
+	},
+                 "sfx.fail": {
+		"sounds": [
+			"dedsafio:sfx/fail"
+		]
+	},
+                 "sfx.drums_pre": {
+		"sounds": [
+			"dedsafio:sfx/drums_pre"
+		]
+	},
+                 "sfx.gas": {
+		"sounds": [
+			"dedsafio:sfx/gas"
+		]
+	},
+                 "sfx.heart": {
+		"sounds": [
+			"dedsafio:sfx/heart"
+		]
+	},
+                 "sfx.impact": {
+		"sounds": [
+			"dedsafio:sfx/impact"
+		]
+	},
+                 "sfx.impact2": {
+		"sounds": [
+			"dedsafio:sfx/impact2"
+		]
+	},
+                 "sfx.laughter": {
+		"sounds": [
+			"dedsafio:sfx/laughter"
+		]
+	},
+                 "sfx.message": {
+		"sounds": [
+			"dedsafio:sfx/message"
+		]
+	},
+                 "sfx.pajaros": {
+		"sounds": [
+			"dedsafio:sfx/pajaros"
+		]
+	},
+                 "sfx.pajaros2": {
+		"sounds": [
+			"dedsafio:sfx/pajaros2"
+		]
+	},
+                 "sfx.panic": {
+		"sounds": [
+			"dedsafio:sfx/panic"
+		]
+	},
+                 "sfx.ruleta_message": {
+		"sounds": [
+			"dedsafio:sfx/ruleta_message"
+		]
+	},
+                 "sfx.scare": {
+		"sounds": [
+			"dedsafio:sfx/scare"
+		]
+	},
+                 "sfx.silvido": {
+		"sounds": [
+			"dedsafio:sfx/silvido"
+		]
+	},
+                 "sfx.silvido2": {
+		"sounds": [
+			"dedsafio:sfx/silvido2"
+		]
+	},
+                 "sfx.spin": {
+		"sounds": [
+			"dedsafio:sfx/spin"
+		]
+	},
+                 "sfx.tension": {
+		"sounds": [
+			"dedsafio:sfx/tension"
+		]
+	},
+                 "sfx.tension2": {
+		"sounds": [
+			"dedsafio:sfx/tension2"
+		]
+	},
+                 "sfx.terremoto": {
+		"sounds": [
+			"dedsafio:sfx/terremoto"
+		]
+	},
+                 "sfx.trueno": {
+		"sounds": [
+			"dedsafio:sfx/trueno"
+		]
+	},
+                 "sfx.weird": {
+		"sounds": [
+			"dedsafio:sfx/weird"
+		]
+	},
+                 "sfx.win": {
+		"sounds": [
+			"dedsafio:sfx/win"
+		]
+	},
+                 "sfx.flashbang": {
+		"sounds": [
+			"dedsafio:sfx/flashbang"
+		]
+	},
+                 "sfx.premiomenor": {
+		"sounds": [
+			"dedsafio:sfx/premiomenor"
+		]
+	},
+                 "sfx.premiomayor": {
+		"sounds": [
+			"dedsafio:sfx/premiomayor"
+		]
+	},
+                 "sfx.casino": {
+		"sounds": [
+			"dedsafio:sfx/casino"
+		]
+	},
+                 "sfx.sonidorecompensa": {
+		"sounds": [
+			"dedsafio:sfx/sonidorecompensa"
+		]
+	},
+                 "sfx.revivir": {
+		"sounds": [
+			"dedsafio:sfx/revivir"
+		]
+	},
+                 "sfx.gongsound": {
+		"sounds": [
+			"dedsafio:sfx/gongsound"
+		]
+	},
+                 "sfx.reviil": {
+		"sounds": [
+			"dedsafio:sfx/reviil"
+		]
+	},
+                 "boss.reviilrisa": {
+		"sounds": [
+			"dedsafio:boss/reviilrisa"
+		]
+	},
+                 "boss.reviilrisa_aguda": {
+		"sounds": [
+			"dedsafio:boss/reviilrisa_aguda"
+		]
+	},
+                 "boss.reviilrisa_grabe": {
+		"sounds": [
+			"dedsafio:boss/reviilrisa_grabe"
+		]
+	}
+}

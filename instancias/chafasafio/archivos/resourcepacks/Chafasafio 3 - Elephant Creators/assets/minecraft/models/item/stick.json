@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stick"
+  },
+
+  "overrides": [
+   {"predicate": {"custom_model_data":2}, "model": "item/back_arrow"},
+   {"predicate": {"custom_model_data":3}, "model": "item/next_arrow"},
+   {"predicate": {"custom_model_data":5}, "model": "item/revivir_btn"},
+   {"predicate": {"custom_model_data":6}, "model": "item/revivir_menu"},
+   {"predicate": {"custom_model_data":7}, "model": "item/revivir_menu2"},
+   {"predicate": {"custom_model_data":20}, "model": "item/steve"}
+ ]
+}

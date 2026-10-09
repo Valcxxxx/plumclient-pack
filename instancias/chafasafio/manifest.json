@@ -1,0 +1,3678 @@
+{
+  "files": [
+    {
+      "path": "config/aiimprovements-common.toml",
+      "sha1": "38938944d157102e1651cf7bd07c11b9b022ee28",
+      "size": 6211
+    },
+    {
+      "path": "config/axiom/.axiom.json.backup",
+      "sha1": "19b8a9e8b94e68f6243a16d41c9a1da768726b41",
+      "size": 9440
+    },
+    {
+      "path": "config/axiom/axiom.json",
+      "sha1": "19b8a9e8b94e68f6243a16d41c9a1da768726b41",
+      "size": 9440
+    },
+    {
+      "path": "config/axiom/hotbars/149.202.84.78",
+      "sha1": "936c43ed5c11a401211f4b42ae1e9048f417ea9a",
+      "size": 319
+    },
+    {
+      "path": "config/axiom/imgui.ini",
+      "sha1": "75ade0d0acafb111d712e9d6c44b209e3c916854",
+      "size": 2318
+    },
+    {
+      "path": "config/axiom/translations.zip",
+      "sha1": "9ff0c921051fe87e7331e483627205e05c3dbe04",
+      "size": 1166225
+    },
+    {
+      "path": "config/bbs/assets/models/nutria/nutria.geo.json",
+      "sha1": "8e41288b7063e4a949141f7332a89eac1b3f504f",
+      "size": 14290
+    },
+    {
+      "path": "config/bbs/assets/models/nutria/nutria.png",
+      "sha1": "394ebeb0df327cc505a443ab0c665b77ca66db0c",
+      "size": 3019
+    },
+    {
+      "path": "config/bbs/assets/models/nutria/NutriaTextura.png",
+      "sha1": "394ebeb0df327cc505a443ab0c665b77ca66db0c",
+      "size": 3019
+    },
+    {
+      "path": "config/bbs/movies/2026-10-08_19-15-38.log",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0
+    },
+    {
+      "path": "config/bbs/settings/bbs.json",
+      "sha1": "0a8328ae398dbbf945e8f101fe080ea8bb4bbdc7",
+      "size": 9590
+    },
+    {
+      "path": "config/bbs/settings/converter.log",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0
+    },
+    {
+      "path": "config/bbs/settings/keybinds.json",
+      "sha1": "6e55d32aa5e379d8c4781ceb66c11c49a628ded4",
+      "size": 3388
+    },
+    {
+      "path": "config/bbs/settings/sections.json",
+      "sha1": "5fc02da211f017083a253fc43bee618a9c25f083",
+      "size": 48
+    },
+    {
+      "path": "config/chloride-client.toml",
+      "sha1": "7a7c2e6822a3cfab3b7b06185dfcab516011c54c",
+      "size": 5015
+    },
+    {
+      "path": "config/connector.json",
+      "sha1": "23753ccb810b4975165448040217d5c5d55a8322",
+      "size": 144
+    },
+    {
+      "path": "config/cpm.json",
+      "sha1": "e62dbeb1b7606764dee3765aee00f7af6eb6f74c",
+      "size": 790
+    },
+    {
+      "path": "config/customskyboxes.json",
+      "sha1": "8e6a9c7ba57e88f535a6a09d7d97648df8f234c2",
+      "size": 34
+    },
+    {
+      "path": "config/dedsafio-client.json",
+      "sha1": "87a9c1c4fce1422e06379bfd99079c2564f8a6a2",
+      "size": 170
+    },
+    {
+      "path": "config/drippyloadingscreen/options.txt",
+      "sha1": "2ff67b3d9bcc2795fe59856885bf6e4bb648cc7f",
+      "size": 2465
+    },
+    {
+      "path": "config/dynamic_fps.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3
+    },
+    {
+      "path": "config/embeddium++.toml",
+      "sha1": "2292a353a7fe4ed75fb2a01b5c8b90e62789e5b9",
+      "size": 6841
+    },
+    {
+      "path": "config/embeddium-fingerprint.json",
+      "sha1": "987ce4b2de167b6bfb298e9d514a95116b013045",
+      "size": 427
+    },
+    {
+      "path": "config/embeddium-mixins.properties",
+      "sha1": "a729ee50d18cf2204ff9fc33bc21641d55185c88",
+      "size": 269
+    },
+    {
+      "path": "config/embeddium-options.json",
+      "sha1": "de8add0f213fe49e16011076be4efa52e5f4b570",
+      "size": 851
+    },
+    {
+      "path": "config/emotecraft.json",
+      "sha1": "212357de0d0bc3432e2ca5a1ac866e88e89b2e69",
+      "size": 647
+    },
+    {
+      "path": "config/emotecraft_emote_map.json",
+      "sha1": "be63473ca7f8286a8827f2e151fff6ce4016ff4d",
+      "size": 117
+    },
+    {
+      "path": "config/entity_model_features.json",
+      "sha1": "954cf20e027dbe52268064f4e4e733a6da7eb208",
+      "size": 1292
+    },
+    {
+      "path": "config/entity_texture_features.json",
+      "sha1": "448216485327fc2d8974687e6995a8502666dbb5",
+      "size": 1451
+    },
+    {
+      "path": "config/etf_warnings.json",
+      "sha1": "1573fc320a363b30a1a5e4cae1d4596ec177085d",
+      "size": 28
+    },
+    {
+      "path": "config/explosiveenhancement.toml",
+      "sha1": "2146daa9f23b05662190fbe034315d12ba43e322",
+      "size": 2150
+    },
+    {
+      "path": "config/fabric/indigo-renderer.properties",
+      "sha1": "17db4afaa5bc8faf4b9692300d0cf8cb9de76bf2",
+      "size": 290
+    },
+    {
+      "path": "config/fancymenu/assets/adad.png",
+      "sha1": "2127a53d15e9cdf015ea9229f7e0d93bf995e3f1",
+      "size": 52
+    },
+    {
+      "path": "config/fancymenu/assets/audio.ogg",
+      "sha1": "489eb7251f42114259df6b2511f3e058cfb3f24f",
+      "size": 2569924
+    },
+    {
+      "path": "config/fancymenu/assets/botoninicio.png",
+      "sha1": "1f01935da64c0d5d5ba45f6d0b592968f23995c6",
+      "size": 4851
+    },
+    {
+      "path": "config/fancymenu/assets/dedlogo.png",
+      "sha1": "c15be26c0235908a32839595cfb634c821b14b46",
+      "size": 743321
+    },
+    {
+      "path": "config/fancymenu/assets/fondo.gif",
+      "sha1": "e65723c2e54190e7e3769f2e07793123446ee3d9",
+      "size": 76554686
+    },
+    {
+      "path": "config/fancymenu/assets/fondostart.png",
+      "sha1": "cbf5232f98ee6511b4850062e9eb67753062b6c4",
+      "size": 274
+    },
+    {
+      "path": "config/fancymenu/assets/icono.icns",
+      "sha1": "dc65cd893643c84a8f2ec85922348294af4cbd83",
+      "size": 235149
+    },
+    {
+      "path": "config/fancymenu/assets/logo.png",
+      "sha1": "a0430d91401fb5ac0ce4efbc598ef48ef78d8ef7",
+      "size": 672468
+    },
+    {
+      "path": "config/fancymenu/assets/logo2.png",
+      "sha1": "cbe40a26422008323135f1dedd26a990baa392f8",
+      "size": 1395195
+    },
+    {
+      "path": "config/fancymenu/assets/logo_16.png",
+      "sha1": "6a9175dd6934c28fe1cb86b9483e3aa08ef716b8",
+      "size": 1437
+    },
+    {
+      "path": "config/fancymenu/assets/logo_32.png",
+      "sha1": "f0931aceb466ef2d91d76883c7b2d80b036b3d7a",
+      "size": 3357
+    },
+    {
+      "path": "config/fancymenu/assets/roulette.png",
+      "sha1": "d4a3a6b698dfc9c0026924f853bfb19007940bf7",
+      "size": 1060
+    },
+    {
+      "path": "config/fancymenu/assets/test.txt",
+      "sha1": "d95ce8e38fd7b665c1598a1d7603f00d992e5ff1",
+      "size": 1369
+    },
+    {
+      "path": "config/fancymenu/audio_element_controller_metas.json",
+      "sha1": "9f56848144f345f59679f417145a18eb0fde7cf0",
+      "size": 109
+    },
+    {
+      "path": "config/fancymenu/config.txt",
+      "sha1": "d660220e69cc6a002729c19feb9a76ba4555c220",
+      "size": 1635
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "sha1": "0ea3729ba686aaee0690523d6e4071f470f6cb2a",
+      "size": 807
+    },
+    {
+      "path": "config/fancymenu/customization/com.blamejared.controlling.client.newkeybindsscreen_layout.txt",
+      "sha1": "a04bc1e46d2cb6c3aee8738dcdc062a10654cd4a",
+      "size": 16746
+    },
+    {
+      "path": "config/fancymenu/customization/controls_screen_layout.txt",
+      "sha1": "fbd202997c7579fe3e9bd95b7db4cc1a3883c20b",
+      "size": 15846
+    },
+    {
+      "path": "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
+      "sha1": "a88a310156b9d93858614eb88c51c97d30f7199e",
+      "size": 18078
+    },
+    {
+      "path": "config/fancymenu/customization/inventory_screen_layout.txt",
+      "sha1": "7447eb3a86bbfa8b80069e66afd5a7c1809a3b96",
+      "size": 7801
+    },
+    {
+      "path": "config/fancymenu/customization/menu.txt",
+      "sha1": "c09220f5b558ef1c684f6044f2de5502fbe5d4d3",
+      "size": 62345
+    },
+    {
+      "path": "config/fancymenu/customization/pack_selection_screen_layout.txt",
+      "sha1": "fd167461deb8d7808380f3f9bcaff82b57d74e81",
+      "size": 5184
+    },
+    {
+      "path": "config/fancymenu/customization/pause_screen_layout_1.txt",
+      "sha1": "5fd465fc0b085dbcda6848dd922157be78d3bf49",
+      "size": 53380
+    },
+    {
+      "path": "config/fancymenu/customization/skin_customization_screen_layout.txt",
+      "sha1": "280f93752f2a8d1d648211bd350e325e8b1c201e",
+      "size": 13327
+    },
+    {
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c",
+      "size": 51
+    },
+    {
+      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "sha1": "a87d9eee1c6d38726797d4e611b3ce976cade110",
+      "size": 198
+    },
+    {
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e",
+      "size": 42
+    },
+    {
+      "path": "config/fancymenu/locals/de_de.local",
+      "sha1": "98b50323485e91e3cc989364873878e42386c372",
+      "size": 27376
+    },
+    {
+      "path": "config/fancymenu/locals/en_us.local",
+      "sha1": "ea7f22c6fa54909605b1d8cb4b45a1e0d8ca6a44",
+      "size": 113824
+    },
+    {
+      "path": "config/fancymenu/locals/pl_pl.local",
+      "sha1": "6b065a9ef9287ac5c88775c78f247f607764ad12",
+      "size": 13858
+    },
+    {
+      "path": "config/fancymenu/locals/pt_br.local",
+      "sha1": "ab64076d828f5700d3b7e5a5a312b76eaa3e1b16",
+      "size": 14283
+    },
+    {
+      "path": "config/fancymenu/locals/ru_ru.local",
+      "sha1": "097bf0d21a71879b3a87508324bb11051c52ba1b",
+      "size": 155574
+    },
+    {
+      "path": "config/fancymenu/locals/uk_ua.local",
+      "sha1": "58a9404fd84d78331701a6e81c34382bae55a7dd",
+      "size": 147984
+    },
+    {
+      "path": "config/fancymenu/locals/zh_cn.local",
+      "sha1": "8e166ec05744eb904901dbedcd5b9374c1ba8f97",
+      "size": 52106
+    },
+    {
+      "path": "config/fancymenu/menu_identifiers.db",
+      "sha1": "c4ffbfdf7e6bc0e711bd5ee8b59751d9b3c218b6",
+      "size": 10497
+    },
+    {
+      "path": "config/fancymenu/normalized_scroll_screens.json",
+      "sha1": "10fbc9e1f65b2b0ba54ee01e2130a8c6f6c0c820",
+      "size": 27
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "sha1": "c542bcc726e050270a7d93889b9b8f095bd2e9a7",
+      "size": 4613
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cherry_blossom.json",
+      "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38",
+      "size": 9349
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cozy_campfire.json",
+      "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e",
+      "size": 9347
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558",
+      "size": 9329
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
+      "sha1": "9583fa877b286337557aae3429f91d66682091b7",
+      "size": 9359
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light.json",
+      "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60",
+      "size": 9331
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light_high_contrast.json",
+      "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069",
+      "size": 9361
+    },
+    {
+      "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
+      "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620",
+      "size": 9345
+    },
+    {
+      "path": "config/fancymenu/ui_themes/purple_void.json",
+      "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8",
+      "size": 9343
+    },
+    {
+      "path": "config/fancymenu/ui_themes/spooky_season.json",
+      "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d",
+      "size": 9347
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258",
+      "size": 23
+    },
+    {
+      "path": "config/fancymenu/video_element_controller_metas.json",
+      "sha1": "7c54ee03fb9274e8c92b4c4d8f4a98ef09d8b997",
+      "size": 130
+    },
+    {
+      "path": "config/ferritecore-mixin.toml",
+      "sha1": "bada32b53873ce4121ffefb82ca804c94aef2e0b",
+      "size": 1516
+    },
+    {
+      "path": "config/fml.toml",
+      "sha1": "5850d014d8cc0cb6e529a9630398080506f90262",
+      "size": 1147
+    },
+    {
+      "path": "config/forge-client.toml",
+      "sha1": "55e80f51f0c9cf66de1f95c4d775b24dc59627a1",
+      "size": 1628
+    },
+    {
+      "path": "config/fpsreducer/fpsreducer-client.toml",
+      "sha1": "4c8ede9991dac82730d7d4bf4c007deb36012b20",
+      "size": 3351
+    },
+    {
+      "path": "config/ftbxmodcompat.snbt",
+      "sha1": "19266805216c9bc71b88d975ab0be2df95cd64b3",
+      "size": 521
+    },
+    {
+      "path": "config/golpeabull/jugadores_drenado.json",
+      "sha1": "e5519af04cff362cc743f8ae36f9c993de94d8e0",
+      "size": 18
+    },
+    {
+      "path": "config/grindstone_enchantments-common.toml",
+      "sha1": "f4937f0ae9c9db9f76f1b8ce5c581fbc910ec40e",
+      "size": 808
+    },
+    {
+      "path": "config/immediatelyfast.json",
+      "sha1": "adcb21b0ad5f7f1c124517ff64fc701a737e4ea1",
+      "size": 1060
+    },
+    {
+      "path": "config/immersive_paintings.json",
+      "sha1": "3fda63d6a6fe8e4eafe9872c58fa8695283e3986",
+      "size": 584
+    },
+    {
+      "path": "config/itemborders-common.toml",
+      "sha1": "c6e8c86c0d26084f947314788df0399a70d6e2e4",
+      "size": 4243
+    },
+    {
+      "path": "config/jei/blacklist.cfg",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0
+    },
+    {
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "sha1": "8f2e726f52354b9b47d0311b4e059f4788bb8384",
+      "size": 159
+    },
+    {
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "sha1": "dc48be3ecfb2cd9c06a53712b3044f8123a6c06e",
+      "size": 74
+    },
+    {
+      "path": "config/jei/jei-client.ini",
+      "sha1": "9f569acaed44d8d070501d61108f33664ac0bdec",
+      "size": 8804
+    },
+    {
+      "path": "config/jei/jei-colors.ini",
+      "sha1": "a9467c371d970f3bb88284e5878460e052589fc1",
+      "size": 1338
+    },
+    {
+      "path": "config/jei/jei-debug.ini",
+      "sha1": "f9bc860103810eed50e7e116dd960c2cb961f55e",
+      "size": 918
+    },
+    {
+      "path": "config/jei/jei-mod-id-format.ini",
+      "sha1": "463229eb371eb1ddedf018aca6199c85267b41f2",
+      "size": 463
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "sha1": "e44dc4d19cf2dd032c1fce898cbbf77e2a5c8630",
+      "size": 353
+    },
+    {
+      "path": "config/jei/world/server/149_202_84_78_8039_71c0de57/bookmarks.ini",
+      "sha1": "9fe246aa3ec45bcef32641a216c1d99a0f0a07d1",
+      "size": 103
+    },
+    {
+      "path": "config/jei/world/server/dogestudios_xerohost_net_25600_a4af90b4/lookupHistory.ini",
+      "sha1": "684c1d94a86e83837bbd7185fa4cb4f05fa8dccd",
+      "size": 323
+    },
+    {
+      "path": "config/konkrete/locals/de_de.local",
+      "sha1": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5",
+      "size": 369
+    },
+    {
+      "path": "config/konkrete/locals/en_us.local",
+      "sha1": "42badc338e767559db38a67bd3e8020a92000e56",
+      "size": 426
+    },
+    {
+      "path": "config/konkrete/locals/pl_pl.local",
+      "sha1": "adf2ded54b4952ca83af26a1217e2c5db8ac1429",
+      "size": 313
+    },
+    {
+      "path": "config/konkrete/locals/pt_br.local",
+      "sha1": "9c324fb4d33106366e6cbb5400c8c34f11539d34",
+      "size": 322
+    },
+    {
+      "path": "config/lootbeams-client.toml",
+      "sha1": "b1f22c4966962f641310ada42b8d79f847240a38",
+      "size": 7006
+    },
+    {
+      "path": "config/midnightlib.json",
+      "sha1": "9a5bd042eb352a8d2fb2f946bba8d31d463abd37",
+      "size": 34
+    },
+    {
+      "path": "config/modelfix-client.toml",
+      "sha1": "99403445ea50f257d4e713289e50d2f11006ef51",
+      "size": 1292
+    },
+    {
+      "path": "config/modernfix-common.toml",
+      "sha1": "046452d3af87f5c1fd5de5650e3d1b73c930fd92",
+      "size": 107
+    },
+    {
+      "path": "config/modernfix-mixins.properties",
+      "sha1": "4bc49d3a863daef1dd22d5a29f70e58919810cab",
+      "size": 5043
+    },
+    {
+      "path": "config/MouseTweaks.cfg",
+      "sha1": "651b3e4db2d430dc1da3566b2984b264061a6794",
+      "size": 135
+    },
+    {
+      "path": "config/pehkui-client.toml",
+      "sha1": "50ccb3af7b7fc2103f3f34de24a7c0564fc8a997",
+      "size": 138
+    },
+    {
+      "path": "config/pehkui-common.toml",
+      "sha1": "c11b9ccc2be7db28ea07b48af4ff9b1822082c7b",
+      "size": 407
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/cs_cz.json",
+      "sha1": "80ef270dab711e22c4ec378c006422e99303bf22",
+      "size": 8788
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/de_de.json",
+      "sha1": "9dbbe34f84e9d012d51f60c0a8435b260fbdc1ad",
+      "size": 8510
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/es_es.json",
+      "sha1": "b96432c33123aace28c9915579f2b7e5c841cbea",
+      "size": 9115
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/fr_fr.json",
+      "sha1": "ce0e6afc2309001b897ce9ae95e331325c7a48ed",
+      "size": 9154
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/he_il.json",
+      "sha1": "27fbec3263443459086ed7556fb7dc463eba65b4",
+      "size": 9290
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/ja_jp.json",
+      "sha1": "5bf821028b49c9396d3766f34d39e557abfd5536",
+      "size": 9467
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/ko_kr.json",
+      "sha1": "c75949dcf2d5e543028e3e5da6e7e6782a528e0b",
+      "size": 9208
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/pl_pl.json",
+      "sha1": "c0d0daedffbb23aa03c45171fa6a38eb47d81f70",
+      "size": 8890
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/pt_br.json",
+      "sha1": "ed7f5e2c77800a714130a1b4b1cb61d51ba7996f",
+      "size": 9046
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/ru_ru.json",
+      "sha1": "4c1fcc29b549fb6e7846c3f40a4e7b6fc0fb8253",
+      "size": 11446
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/sr_sp.json",
+      "sha1": "4684ad7158bddec0087bc51bfb22c2578b98172f",
+      "size": 11464
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/timestamp",
+      "sha1": "d1515a3d6a4afd47f862efc2e3eae8e1590ae70d",
+      "size": 13
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/tr_tr.json",
+      "sha1": "b99de0bde19b8f5578262fa6e4c6d9cf2b216d61",
+      "size": 1545
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/tt_ru.json",
+      "sha1": "340e7fe1b0ef87fceeac610b69075e6f9703e153",
+      "size": 11312
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/uk_ua.json",
+      "sha1": "467cf07734329628ba17e17c78e2b958ba770166",
+      "size": 10828
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/vi_vn.json",
+      "sha1": "2c54dc1185c13c49ed97703496ed082988716a35",
+      "size": 10102
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/zh_cn.json",
+      "sha1": "e47cd96507b3f18a08ef1d9d728c7b5a77bc8ab4",
+      "size": 8123
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/zh_tw.json",
+      "sha1": "a43069933e0467d3aaa134323411033feba1908b",
+      "size": 8119
+    },
+    {
+      "path": "config/plasmovoice/client.toml",
+      "sha1": "23a64bd1e869525eabd3f34cdab2af0168ed849b",
+      "size": 1368
+    },
+    {
+      "path": "config/plasmovoice/meta_cache.json",
+      "sha1": "f9ea09feaa1a5baa6a4f43e5de08ea0d87a1783f",
+      "size": 655
+    },
+    {
+      "path": "config/plasmovoice/server/config.toml",
+      "sha1": "38a27b8c44cdaec734d589722cee7ebbe8d6c373",
+      "size": 3799
+    },
+    {
+      "path": "config/plasmovoice/server/languages/.crowdin/cs_cz.toml",
+      "sha1": "01a2944a87e1e5da3ff4872321b9cea705d80da7",
+      "size": 2018
+    },
+    {
+      "path": "config/plasmovoice/server/languages/.crowdin/de_de.toml",
+      "sha1": "e4750f54f66a69502befa31c91d17f14ff4b0170",
+      "size": 2187
+    },
+    {
+      "path": "config/plasmovoice/server/languages/.crowdin/es_es.toml",
+      "sha1": "f3d0a48cf500a83b15127d46ec4c820313568d4f",
+      "size": 2123
+    },
+    {
+      "path": "config/plasmovoice/server/languages/.crowdin/fr_fr.toml",
+      "sha1": "47a14d2e2defb9311d8767ea4e2fd96e56d8099c",
+      "size": 2099
+    },
+    {
+      "path": "config/plasmovoice/server/languages/.crowdin/he_il.toml",
+      "sha1": "37f952c9737eb17cb600c10967d7338920a62865",
+      "size": 2228
+    },
+    {
+      "path": "config/plasmovoice/server/languages/.crowdin/ja_jp.toml",
+      "sha1": "3b8ae72b73460301786027c694c8ccdfe431d13b",
+      "size": 2508
+    },
+    {
+      "path": "config/plasmovoice/server/languages/.crowdin/ko_kr.toml",
+      "sha1": "53db0bd05c9ba2b1c302d76695c780b92b780727",
+      "size": 2356
+    },
+    {
+      "path": "config/plasmovoice/server/languages/.crowdin/pl_pl.toml",
+      "sha1": "643a7bf713721276c671d0aa6f94208bad71f1df",
+      "size": 2040
+    },
+    {
+      "path": "config/plasmovoice/server/languages/.crowdin/pt_br.toml",
+      "sha1": "3ec4902eeb00b711e29f60719d4b225d4ab144a2",
+      "size": 2035
+    },
+    {
+      "path": "config/plasmovoice/server/languages/.crowdin/ru_ru.toml",
+      "sha1": "a4947889bdb7366d2e9d890a2b1d16857f406fa1",
+      "size": 2531
+    },
+    {
+      "path": "config/plasmovoice/server/languages/.crowdin/sr_sp.toml",
+      "sha1": "8e27071f5477ee29132b779bdfdae73bddea067f",
+      "size": 2599
+    },
+    {
+      "path": "config/plasmovoice/server/languages/.crowdin/timestamp",
+      "sha1": "6b9f09255ade59786f9560edf9098d921ac6b46c",
+      "size": 13
+    },
+    {
+      "path": "config/plasmovoice/server/languages/.crowdin/tr_tr.toml",
+      "sha1": "5903fb2c2d0161e8c88b72fa8dd41905368c6b88",
+      "size": 2125
+    },
+    {
+      "path": "config/plasmovoice/server/languages/.crowdin/tt_ru.toml",
+      "sha1": "8b07478af298be9244edca8ff155fbfec9694b3c",
+      "size": 2913
+    },
+    {
+      "path": "config/plasmovoice/server/languages/.crowdin/uk_ua.toml",
+      "sha1": "fa9f6b2a461728f09e58a18475a9b7d7c7f660e4",
+      "size": 2730
+    },
+    {
+      "path": "config/plasmovoice/server/languages/.crowdin/vi_vn.toml",
+      "sha1": "78ca8c0797357ba1d8529dc2e3600da68e21aab2",
+      "size": 2258
+    },
+    {
+      "path": "config/plasmovoice/server/languages/.crowdin/zh_cn.toml",
+      "sha1": "b612d0c728e5b17172aa6a9a6c3eed88c420e540",
+      "size": 1882
+    },
+    {
+      "path": "config/plasmovoice/server/languages/.crowdin/zh_tw.toml",
+      "sha1": "a0c399b692606034bb1e137d209233761a41cb57",
+      "size": 1879
+    },
+    {
+      "path": "config/plasmovoice/server/languages/cs_cz.toml",
+      "sha1": "7d83f44357b7c0c13abba6517102244af6cb0cc3",
+      "size": 2006
+    },
+    {
+      "path": "config/plasmovoice/server/languages/de_de.toml",
+      "sha1": "3dcc843533fdbbf020f809a928eaaba5f1093e9c",
+      "size": 2175
+    },
+    {
+      "path": "config/plasmovoice/server/languages/en_us.toml",
+      "sha1": "9785cccfe26130282492c29bf1e2516ef767daef",
+      "size": 1892
+    },
+    {
+      "path": "config/plasmovoice/server/languages/es_es.toml",
+      "sha1": "ce783516b46c8da21fa4773e91ff87484b13fd5f",
+      "size": 2111
+    },
+    {
+      "path": "config/plasmovoice/server/languages/fr_fr.toml",
+      "sha1": "48b348a32931a9155e53b4501127a6e5db7c672e",
+      "size": 2087
+    },
+    {
+      "path": "config/plasmovoice/server/languages/he_il.toml",
+      "sha1": "ce41ad6f3d493ec9dba6a6fe9b36f6f1503d192c",
+      "size": 2216
+    },
+    {
+      "path": "config/plasmovoice/server/languages/ja_jp.toml",
+      "sha1": "b0ab89bf73180ebe779a58a020caa8053392985f",
+      "size": 2496
+    },
+    {
+      "path": "config/plasmovoice/server/languages/ko_kr.toml",
+      "sha1": "ecf2220e1ec13ebb3624a789d766b44512118d5a",
+      "size": 2344
+    },
+    {
+      "path": "config/plasmovoice/server/languages/pl_pl.toml",
+      "sha1": "10e92cb1c7c34a77cd80f3ad90ee94ee642f5347",
+      "size": 2028
+    },
+    {
+      "path": "config/plasmovoice/server/languages/pt_br.toml",
+      "sha1": "97fa78a86a249f99bdedbfffdf8e256e4d1c77f9",
+      "size": 2023
+    },
+    {
+      "path": "config/plasmovoice/server/languages/ru_ru.toml",
+      "sha1": "9d29ab1ef5a4dc12806589fbe31db4d4908123ec",
+      "size": 2519
+    },
+    {
+      "path": "config/plasmovoice/server/languages/sr_sp.toml",
+      "sha1": "95cac2a83860409b6fb20da3b8d8a1b29c96d2f3",
+      "size": 2587
+    },
+    {
+      "path": "config/plasmovoice/server/languages/tr_tr.toml",
+      "sha1": "85aadea23d31e089ea5d6d129de98ca594454aff",
+      "size": 2113
+    },
+    {
+      "path": "config/plasmovoice/server/languages/tt_ru.toml",
+      "sha1": "afdaa199fb46c3c5277df29031ad90328a487f97",
+      "size": 2901
+    },
+    {
+      "path": "config/plasmovoice/server/languages/uk_ua.toml",
+      "sha1": "4c2c41bf5b4314c218d101f966cff3034862a3b3",
+      "size": 2718
+    },
+    {
+      "path": "config/plasmovoice/server/languages/vi_vn.toml",
+      "sha1": "b1f7020c2f34381d6bbfcc2d366049e70ead06f9",
+      "size": 2246
+    },
+    {
+      "path": "config/plasmovoice/server/languages/zh_cn.toml",
+      "sha1": "cfd4de787ee2cb746864390f182e98f5b8142c58",
+      "size": 1870
+    },
+    {
+      "path": "config/plasmovoice/server/languages/zh_tw.toml",
+      "sha1": "2bb9a6db1c99bf02e8ea85c43e6ecd9affe328e8",
+      "size": 1867
+    },
+    {
+      "path": "config/plasmovoice/server/voice_mutes.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+      "size": 2
+    },
+    {
+      "path": "config/pv-addon-broadcast/config.toml",
+      "sha1": "83083e48e09098d72a8d6dc482e821ae1e9dc9b4",
+      "size": 257
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/.crowdin/es_es.toml",
+      "sha1": "baff71926f5a2f1f20a76987ff49a4c209dbed30",
+      "size": 572
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/.crowdin/he_il.toml",
+      "sha1": "2910502cea179ff1392779ec6a75f13c86be35b5",
+      "size": 567
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/.crowdin/ko_kr.toml",
+      "sha1": "cbf3c78fc6c768a121b12a32e2e5dbb33f04e559",
+      "size": 539
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/.crowdin/pl_pl.toml",
+      "sha1": "03efddd7765d7d3ee5116a72050193a00533d0b7",
+      "size": 585
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/.crowdin/pt_br.toml",
+      "sha1": "e52b4cb9fb8f92adb7322f7229e660fb2822b8ed",
+      "size": 539
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/.crowdin/ru_ru.toml",
+      "sha1": "91b7993d185caffb92cd429908a27b75a6247153",
+      "size": 742
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/.crowdin/timestamp",
+      "sha1": "ffd1c6e744a63c2b658edb8fb5af79ea2953a45a",
+      "size": 13
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/.crowdin/tt_ru.toml",
+      "sha1": "aaccaadccc499766f455de215eb10a6ccb1550bf",
+      "size": 757
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/.crowdin/vi_vn.toml",
+      "sha1": "5e52e2ca397c134ec0c3ab3399caffa09aa77bef",
+      "size": 610
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/.crowdin/zh_cn.toml",
+      "sha1": "a2b4a902c6cc6578527ac436c774f7229d768d3e",
+      "size": 531
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/.crowdin/zh_tw.toml",
+      "sha1": "da3d91b85f60b9fd5f46b14330ccfc06d6cb01f6",
+      "size": 531
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/en_us.toml",
+      "sha1": "fe0602102c676d86e1c4584bb9e803c1aa6e7ee6",
+      "size": 531
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/es_es.toml",
+      "sha1": "b4012272ca1bf7b9bc8da2e5c466874f499582ac",
+      "size": 571
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/he_il.toml",
+      "sha1": "daaedd4b1ff55cdb7147e4eae818a3aee1d0f009",
+      "size": 566
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/ko_kr.toml",
+      "sha1": "d925809fb705263b4c8e0c4c0b63b0347ac7386d",
+      "size": 538
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/pl_pl.toml",
+      "sha1": "11ddbed5a166bf9401d2b217ea0ccc5a81cb8f85",
+      "size": 584
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/pt_br.toml",
+      "sha1": "b0590270813ec2768ff586224f7654dd521f9f74",
+      "size": 538
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/ru_ru.toml",
+      "sha1": "cb761bc52de26b023c369c14d94071d988074a7c",
+      "size": 741
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/tt_ru.toml",
+      "sha1": "1495103b5df3fc34cfb0643248e0a7ff32a9037d",
+      "size": 756
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/vi_vn.toml",
+      "sha1": "1ff3202b9bcaaa2fd0aa5f66b51e6d8caa872b07",
+      "size": 609
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/zh_cn.toml",
+      "sha1": "6474bdd0501fea2e15ae2a78b91b69e4289e6620",
+      "size": 530
+    },
+    {
+      "path": "config/pv-addon-broadcast/languages/zh_tw.toml",
+      "sha1": "ea0a40e4656b794dfd4699578059bd3632cd60ca",
+      "size": 530
+    },
+    {
+      "path": "config/securitycraft-client.toml",
+      "sha1": "baff859ea78627fc3cd35b2ebdd11eaa68cab221",
+      "size": 611
+    },
+    {
+      "path": "config/sidebar_buttons.json",
+      "sha1": "3f545ec683be213b684475b39393a01d1faadbcb",
+      "size": 192
+    },
+    {
+      "path": "config/subtitle_colors.json",
+      "sha1": "8f4898234c0d8788383bdfb6f4b44af93ea96951",
+      "size": 2642
+    },
+    {
+      "path": "config/visuality/config.toml",
+      "sha1": "fb6907c0c75f816f0a57e771dc385a869a395f78",
+      "size": 267
+    },
+    {
+      "path": "config/visuality/particle_emitters/block_ambient.json",
+      "sha1": "04db9af89347d49aba9e63e070b262f7e37ce13e",
+      "size": 1293
+    },
+    {
+      "path": "config/visuality/particle_emitters/block_step.json",
+      "sha1": "bd4788dd1998fac53045829328c1d3fa605a61e0",
+      "size": 219
+    },
+    {
+      "path": "config/visuality/particle_emitters/entity_armor.json",
+      "sha1": "411316634e3fde4436ae8203be8ed04531dce9a4",
+      "size": 737
+    },
+    {
+      "path": "config/visuality/particle_emitters/entity_hit.json",
+      "sha1": "5762a004803d76226e223a47e72779966b6cda23",
+      "size": 683
+    },
+    {
+      "path": "config/voicechat/translations.properties",
+      "sha1": "383e00e7dd0d5f00daa2ffcfd24c939d255dc7e3",
+      "size": 1182
+    },
+    {
+      "path": "config/voicechat/username-cache.json",
+      "sha1": "7ee136b66401c57652e85baa56fe2d43e2363b58",
+      "size": 10429
+    },
+    {
+      "path": "config/voicechat/voicechat-client.properties",
+      "sha1": "6bf44f136284f8d6d98a21c8a92f34875a055bf3",
+      "size": 4384
+    },
+    {
+      "path": "config/voicechat/voicechat-server.properties",
+      "sha1": "06702e7313a63b95dda68048876a8efe3e0e025c",
+      "size": 2371
+    },
+    {
+      "path": "config/voicechat/voicechat-volumes.properties",
+      "sha1": "4eaca99c316dc0e047aa47897d73689054c1474d",
+      "size": 37
+    },
+    {
+      "path": "config/voicechat-client.toml",
+      "sha1": "6a87c562a167f9b5faf95bf1f446422f887ff96a",
+      "size": 94
+    },
+    {
+      "path": "config/waterconfig.toml",
+      "sha1": "cf332c3007cd0a708868dea011847559ea90ead6",
+      "size": 677
+    },
+    {
+      "path": "config/watermedia/custom_vlc_path.txt",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0
+    },
+    {
+      "path": "config/xaeropatreon.txt",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0
+    },
+    {
+      "path": "config/xaeroworldmap-common.txt",
+      "sha1": "2654cb878cde3f8a7beaa75750a6ddd094cf8b97",
+      "size": 120
+    },
+    {
+      "path": "config/xaeroworldmap.txt",
+      "sha1": "f9f3473c03a6dd44911db71f46a9bc8598b01e0c",
+      "size": 1218
+    },
+    {
+      "path": "mods/AI-Improvements-1.20-0.5.2.jar",
+      "sha1": "11ad483d1fd1f7ebd84b4940b1dc0926b3e9daa8",
+      "size": 29553,
+      "url": "https://cdn.modrinth.com/data/DSVgwcji/versions/eJihmpNQ/AI-Improvements-1.20-0.5.2.jar"
+    },
+    {
+      "path": "mods/another_furniture-forge-VOLTY.jar",
+      "sha1": "88b04ccdd92a6e34f007424fe117aeb81e11c699",
+      "size": 2583611
+    },
+    {
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+      "size": 580602,
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar"
+    },
+    {
+      "path": "mods/Axiom-5.3.0-for-MC1.20.1.jar",
+      "sha1": "5eda24e18fb6254f1af0ff577ab0ece5c9b7123f",
+      "size": 44194757,
+      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/SZ7n7j9f/Axiom-5.3.0-for-MC1.20.1.jar"
+    },
+    {
+      "path": "mods/bbs-2.3.1-1.20.1.jar",
+      "sha1": "396adff1f49f082c2ea472c426e614ae8e767106",
+      "size": 10712303,
+      "url": "https://cdn.modrinth.com/data/HNsMvuaQ/versions/Ii8OR3po/bbs-2.3.1-1.20.1.jar"
+    },
+    {
+      "path": "mods/bbs_extended_sync-1.0.0-1.20.1.jar",
+      "sha1": "d284b4eeb6e1defc4fa511e58f46c7b7b8e6a175",
+      "size": 342462,
+      "url": "https://cdn.modrinth.com/data/yWwOsHyX/versions/IvbeVBCJ/bbs_extended_sync-1.0.0-1.20.1.jar"
+    },
+    {
+      "path": "mods/chafa_utilities-1.0.0 (10).jar",
+      "sha1": "8142e868679c383312618f9a71418292a970aea3",
+      "size": 18203846
+    },
+    {
+      "path": "mods/chafa_utilities-1.0.0.jar",
+      "sha1": "8142e868679c383312618f9a71418292a970aea3",
+      "size": 18203846
+    },
+    {
+      "path": "mods/chloride-FORGE-mc1.20.1-v1.8.1.jar",
+      "sha1": "b42ae912055a962aeae80b97f08ee3517542026a",
+      "size": 532833,
+      "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/UDrXQjce/chloride-FORGE-mc1.20.1-v1.8.1.jar"
+    },
+    {
+      "path": "mods/cloth-config-11.1.136-forge.jar",
+      "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+      "size": 1181413,
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar"
+    },
+    {
+      "path": "mods/Connector-1.0.0-beta.49+1.20.1.jar",
+      "sha1": "328ed70459bbae96e8f9cf4d90d7a4169decaf1d",
+      "size": 5046108
+    },
+    {
+      "path": "mods/CustomPlayerModels-1.20-0.6.19a.jar",
+      "sha1": "556690a375445fe3d92baa6431139d08f7caf395",
+      "size": 2745573,
+      "url": "https://cdn.modrinth.com/data/h1E7sQNL/versions/8eYYOAmJ/CustomPlayerModels-1.20-0.6.19a.jar"
+    },
+    {
+      "path": "mods/CustomSkinLoader_Universal-15.0.1.jar",
+      "sha1": "ab8dd841cafc3b4ecbf0250d3f5aee8a1fdb506a",
+      "size": 218215,
+      "url": "https://cdn.modrinth.com/data/idMHQ4n2/versions/OLaesh5y/CustomSkinLoader_Universal-15.0.1.jar"
+    },
+    {
+      "path": "mods/dedsafio3-0.0.9-forge-1.20.1 (1).jar",
+      "sha1": "01c1498290a45b70acacd0362a9696f86097d0e2",
+      "size": 7325727
+    },
+    {
+      "path": "mods/drippyloadingscreen_forge_3.1.5_MC_1.20.1.jar",
+      "sha1": "a33d48809db8a2f1eb3667fe140d7a4104d80dca",
+      "size": 281881,
+      "url": "https://cdn.modrinth.com/data/v3CYg2V9/versions/Nof419YS/drippyloadingscreen_forge_3.1.5_MC_1.20.1.jar"
+    },
+    {
+      "path": "mods/dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
+      "sha1": "43b3e0766a9e7a30651cc01756476657b865b7a2",
+      "size": 402345,
+      "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/EjdIWWqG/dynamic-fps-3.11.4%2Bminecraft-1.20.0-forge.jar"
+    },
+    {
+      "path": "mods/dynamic-fps-3.7.7+minecraft-1.20.0-forge.jar",
+      "sha1": "b11e38d9a3fdd40ceb962b51d9b782e1e4f5664c",
+      "size": 342609,
+      "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/RWJOhJC6/dynamic-fps-3.7.7%2Bminecraft-1.20.0-forge.jar"
+    },
+    {
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+      "size": 1320675,
+      "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar"
+    },
+    {
+      "path": "mods/embeddiumplus-1.20.1-v1.2.13.jar",
+      "sha1": "d922515ae0f16af2afdddfd72243a4890a2c7ad8",
+      "size": 895427,
+      "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/KEd4eJfk/embeddiumplus-1.20.1-v1.2.13.jar"
+    },
+    {
+      "path": "mods/entity_model_features-3.3.11-1.20.1-forge.jar",
+      "sha1": "eaf743492f8a38ea54ff1b27ccec5a0f3db0b60f",
+      "size": 839768,
+      "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/6RQ5C1J6/entity_model_features-3.3.11-1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/entity_model_features_forge_1.20.1-2.2.6.jar",
+      "sha1": "f71c3fa60bb7dc5999965d951569e4db8d23c694",
+      "size": 432658,
+      "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/SwaXdYpi/entity_model_features_forge_1.20.1-2.2.6.jar"
+    },
+    {
+      "path": "mods/entity_texture_features-7.2.5-1.20.1-forge.jar",
+      "sha1": "90d2eb37c8572bc39246b938d3610d30afe7e509",
+      "size": 999301,
+      "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/VkWikkyj/entity_texture_features-7.2.5-1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/entity_texture_features_forge_1.20.1-6.2.8.jar",
+      "sha1": "5e9e497952bc84dc7d3ab32572adf2739c868c1f",
+      "size": 673188,
+      "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/515ZJGh4/entity_texture_features_forge_1.20.1-6.2.8.jar"
+    },
+    {
+      "path": "mods/explosiveenhancement-1.2.0.jar",
+      "sha1": "35cf80849ac4b19416cadc12cf10de34295e51f5",
+      "size": 97476,
+      "url": "https://cdn.modrinth.com/data/r0camchr/versions/UkoG8ZFw/explosiveenhancement-1.2.0.jar"
+    },
+    {
+      "path": "mods/explosiveenhancement-forge-1.20.1-1.1.0-client.jar",
+      "sha1": "fcea37ff4cbd3302e0f1976264c98c8e874d713b",
+      "size": 85868,
+      "url": "https://cdn.modrinth.com/data/r0camchr/versions/WZmrfQAK/explosiveenhancement-forge-1.20.1-1.1.0-client.jar"
+    },
+    {
+      "path": "mods/fabric-api-0.92.6+1.11.14+1.20.1.jar",
+      "sha1": "285c22b2567b9fdf98ef9808eceb5557de9611d3",
+      "size": 3065813,
+      "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/XweDEycJ/fabric-api-0.92.6%2B1.11.14%2B1.20.1.jar"
+    },
+    {
+      "path": "mods/fancymenu_forge_3.8.1_MC_1.20.1.jar",
+      "sha1": "1fef1d8ab0dc2dec116bc6d6cb6f789fd33b23b0",
+      "size": 4472193,
+      "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/MywA2BxT/fancymenu_forge_3.8.1_MC_1.20.1.jar"
+    },
+    {
+      "path": "mods/fancymenu_forge_3.9.14_MC_1.20.1.jar",
+      "sha1": "8916c8f2f12a986365148661fb59650950913b32",
+      "size": 26191988,
+      "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/2mNmkn9s/fancymenu_forge_3.9.14_MC_1.20.1.jar"
+    },
+    {
+      "path": "mods/fast-ip-ping-v1.0.12-mc1.20.4-forge.jar",
+      "sha1": "64414cc4229c909af4095ab5e8a4f3762cd55185",
+      "size": 10409,
+      "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/AqaB0PbS/fast-ip-ping-v1.0.12-mc1.20.4-forge.jar"
+    },
+    {
+      "path": "mods/fast-ip-ping-v1.0.5-mc1.20.4-forge.jar",
+      "sha1": "cba9a0f2b37706ae0486e74636049545580892fd",
+      "size": 10557,
+      "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/lfk0K3KM/fast-ip-ping-v1.0.5-mc1.20.4-forge.jar"
+    },
+    {
+      "path": "mods/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+      "sha1": "27d58f123951e0404c94caf16ff9b96b442f371c",
+      "size": 66989,
+      "url": "https://cdn.modrinth.com/data/kCpssoSb/versions/5caSj7kt/Fastload-Reforged-mc1.20.1-3.4.0.jar"
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+      "size": 123034,
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar"
+    },
+    {
+      "path": "mods/FpsReducer2-forge-1.20-2.5.jar",
+      "sha1": "d7d5af20faa2bd7012aa2d34b5804324aa273092",
+      "size": 125347,
+      "url": "https://cdn.modrinth.com/data/iZ10HXDj/versions/XP4qT1Vo/FpsReducer2-forge-1.20-2.5.jar"
+    },
+    {
+      "path": "mods/FpsReducer2-forge-1.20.1-2.5.1.jar",
+      "sha1": "4920a2e1d17090007179a568181624847fba0993",
+      "size": 125660,
+      "url": "https://cdn.modrinth.com/data/iZ10HXDj/versions/UfMtCXs7/FpsReducer2-forge-1.20.1-2.5.1.jar"
+    },
+    {
+      "path": "mods/ftb-library-forge-2001.2.6.jar",
+      "sha1": "86e91bbcc0050d5a25e2e4e9aba617b88f15cc0d",
+      "size": 791199
+    },
+    {
+      "path": "mods/ftb-quests-forge-2001.4.9.jar",
+      "sha1": "8304908d8a236cd3ba4ebbf758d40f70868e71bc",
+      "size": 1183769
+    },
+    {
+      "path": "mods/ftb-teams-forge-2001.3.0.jar",
+      "sha1": "bb5a1f3ac9d44c5e9b319768e7166e877879aaaa",
+      "size": 247666
+    },
+    {
+      "path": "mods/ftb-xmod-compat-forge-2.1.1.jar",
+      "sha1": "55897695a22247ebe781499558a87b779175082a",
+      "size": 129541
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.8.3.jar",
+      "sha1": "fead1d1645e16cfa02f39113481ead355230f8fd",
+      "size": 1039047,
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/HVdLnQMI/geckolib-forge-1.20.1-4.8.3.jar"
+    },
+    {
+      "path": "mods/grindenc-forge-1.20.x-v2.2.jar",
+      "sha1": "04648f823117213cbbef23ee463fa6997580a89f",
+      "size": 33362
+    },
+    {
+      "path": "mods/gulag-1.0.0.jar",
+      "sha1": "1e006205e00b93cb757d8dd78c0eedc19ebc07fb",
+      "size": 66329,
+      "url": "https://cdn.modrinth.com/data/qXPwJt6X/versions/MDvoIJcK/gulag-1.0.0.jar"
+    },
+    {
+      "path": "mods/Iceberg-1.20.1-forge-1.1.25.jar",
+      "sha1": "d551ff55814cfb01403b812459ee5a02b020d87b",
+      "size": 134551,
+      "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/BQ8rJPXV/Iceberg-1.20.1-forge-1.1.25.jar"
+    },
+    {
+      "path": "mods/ImmediatelyFast-Forge-1.3.3+1.20.4.jar",
+      "sha1": "f3a9a180b6cb062bc6604fe2ec27e11b38c990e5",
+      "size": 449097,
+      "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/abfWjwdT/ImmediatelyFast-Forge-1.3.3%2B1.20.4.jar"
+    },
+    {
+      "path": "mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+      "sha1": "9eacd407b7dea636d375dc47335d92f616484ea2",
+      "size": 532063,
+      "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/rvsLEEZU/ImmediatelyFast-Forge-1.5.5%2B1.20.4.jar"
+    },
+    {
+      "path": "mods/immersive_paintings-0.6.7+1.20.1-forge.jar",
+      "sha1": "46910c10470c43cb1566384e9422fb76b341b84c",
+      "size": 4841253,
+      "url": "https://cdn.modrinth.com/data/6txNkua3/versions/dZk1qbHj/immersive_paintings-0.6.7%2B1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/item-filters-forge-2001.1.0-build.59.jar",
+      "sha1": "55a7f032c59489eca96069a7841601de2ff97590",
+      "size": 110191
+    },
+    {
+      "path": "mods/ItemBorders-1.20.1-forge-1.2.2.jar",
+      "sha1": "cf42466689489348e1e3a5df00d2ce6c65dd978a",
+      "size": 20832,
+      "url": "https://cdn.modrinth.com/data/b1fMg6sH/versions/JUW31p4D/ItemBorders-1.20.1-forge-1.2.2.jar"
+    },
+    {
+      "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "sha1": "2019d821bed9071daabed43979433a5473ceee49",
+      "size": 625185,
+      "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/skYziQQL/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
+    },
+    {
+      "path": "mods/lootbeams-1.20.1-1.2.2.jar",
+      "sha1": "2e32454be3a099299a3256f5a2e9a5deac04b4cb",
+      "size": 179606,
+      "url": "https://cdn.modrinth.com/data/QWTmZu53/versions/Tj2fhhuD/lootbeams-1.20.1-1.2.2.jar"
+    },
+    {
+      "path": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "sha1": "e0942d396a70c09038e6c2e5e1da6505178249b8",
+      "size": 37178,
+      "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/lJlW5r8R/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
+    },
+    {
+      "path": "mods/memoryleakfix-forge-1.17+-1.1.5.jar",
+      "sha1": "9f60142dd94631800386a16a4ad70ad9e84cd78a",
+      "size": 227925,
+      "url": "https://cdn.modrinth.com/data/NRjRiSSD/versions/3w0IxNtk/memoryleakfix-forge-1.17%2B-1.1.5.jar"
+    },
+    {
+      "path": "mods/midnightlib-forge-1.4.2.jar",
+      "sha1": "9c99369a5b703f428dc31f8e4a1a83fc892bba48",
+      "size": 62156,
+      "url": "https://cdn.modrinth.com/data/codAaoxh/versions/UhRAdyzr/midnightlib-forge-1.4.2.jar"
+    },
+    {
+      "path": "mods/modelfix-1.15.jar",
+      "sha1": "5bdda0781bf9dfb5f992a7aa2bee64d5d3fe0b84",
+      "size": 45246,
+      "url": "https://cdn.modrinth.com/data/QdG47OkI/versions/og4A1nN8/modelfix-1.15.jar"
+    },
+    {
+      "path": "mods/modernfix-forge-5.19.6+mc1.20.1.jar",
+      "sha1": "df041edb91d784bfba47bc701cc45582bd168ad7",
+      "size": 778617,
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/XlmOKkqg/modernfix-forge-5.19.6%2Bmc1.20.1.jar"
+    },
+    {
+      "path": "mods/modminds-1.0.7 (2).jar",
+      "sha1": "eddb90a3d2a4bc0b9be6bbd67d23bce73a018c6a",
+      "size": 6533011
+    },
+    {
+      "path": "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "sha1": "d751153e722a4e014691c83f39f5b07c6ec5333c",
+      "size": 76237,
+      "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/7JVXOe3K/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
+    },
+    {
+      "path": "mods/Pehkui-3.8.2+1.20.1-forge.jar",
+      "sha1": "4bc816efdd8e5e2a97423313674401351710e403",
+      "size": 671605,
+      "url": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/SQpqSgAE/Pehkui-3.8.2%2B1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/plasmovoice-forge-1.20.1-2.1.17.jar",
+      "sha1": "a2bfe43a4c5b5077626d7f0af89fbe9972ba723f",
+      "size": 12337455,
+      "url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/KoHwlbDf/plasmovoice-forge-1.20.1-2.1.17.jar"
+    },
+    {
+      "path": "mods/Prism-1.20.1-forge-1.0.5.jar",
+      "sha1": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3",
+      "size": 52205,
+      "url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/FFyss87M/Prism-1.20.1-forge-1.0.5.jar"
+    },
+    {
+      "path": "mods/pv-addon-broadcast-1.1.1.jar",
+      "sha1": "cb171eb5057096cb89ec066af9a755013d11356e",
+      "size": 60259,
+      "url": "https://cdn.modrinth.com/data/ZI9h3Y7k/versions/cOSaDzt7/pv-addon-broadcast-1.1.1.jar"
+    },
+    {
+      "path": "mods/ruletas-1.0.0 (1).jar",
+      "sha1": "c68ff966525432cf4c0cdab1d7fc56a79093a362",
+      "size": 243918904,
+      "parts": [
+        {
+          "name": "mods/ruletas-1.0.0 (1).jar.0",
+          "sha1": "951703cb92030f51e3dd9da0d4f66fa0b4625e25",
+          "size": 94371840
+        },
+        {
+          "name": "mods/ruletas-1.0.0 (1).jar.1",
+          "sha1": "c346b6d0657a193e820edbd86378cb2da8ccb7fc",
+          "size": 94371840
+        },
+        {
+          "name": "mods/ruletas-1.0.0 (1).jar.2",
+          "sha1": "f3ac02bdd30477fe9be0b202ddfe71a9b95cb0da",
+          "size": 55175224
+        }
+      ]
+    },
+    {
+      "path": "mods/subtitle-1.0-SNAPSHOT.jar",
+      "sha1": "fa91afc3a61410415c78ee920dd79469c01a3e01",
+      "size": 38323,
+      "url": "https://cdn.modrinth.com/data/iT1FXUlm/versions/c3V83VsQ/subtitle-1.0-SNAPSHOT.jar"
+    },
+    {
+      "path": "mods/visuality-forge-2.0.2.jar",
+      "sha1": "1f0547f3ba508156cd4630bf793df464230e04f3",
+      "size": 215750,
+      "url": "https://cdn.modrinth.com/data/z13R7Et1/versions/MyhpSYT4/visuality-forge-2.0.2.jar"
+    },
+    {
+      "path": "mods/voltymod-5.3.0-forge-1.20.1.jar",
+      "sha1": "40e1cdc877c2e7d8068948be339693ad2d3f3f69",
+      "size": 2198319
+    },
+    {
+      "path": "mods/XaerosWorldMap_1.39.0_Forge_1.20.jar",
+      "sha1": "33704b6dd2ee6fbf1da0cffcf2001bf7f1c3dea4",
+      "size": 930284,
+      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/zGpACLsy/XaerosWorldMap_1.39.0_Forge_1.20.jar"
+    },
+    {
+      "path": "mods/xlpackets-forge-1.20.1-1.0.5.jar",
+      "sha1": "f35dd41709eae596bbc99bfa895489a4d8256a78",
+      "size": 17337,
+      "url": "https://cdn.modrinth.com/data/SeCuopwJ/versions/dqaBUpHl/xlpackets-forge-1.20.1-1.0.5.jar"
+    },
+    {
+      "path": "mods/[1.20.1] SecurityCraft v1.9.12.jar",
+      "sha1": "716f4953c107594034008dbcd980fd5029d7f0dc",
+      "size": 4180211
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/boss/reviilrisa.ogg",
+      "sha1": "ae05cf479ce83188c1043ced87b57fa570f95c1f",
+      "size": 29682
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/boss/reviilrisa_aguda.ogg",
+      "sha1": "06ac7876ad0caad6b4d86b7fb15878f9fd994e59",
+      "size": 27547
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/boss/reviilrisa_grabe.ogg",
+      "sha1": "5f975de3cb53c746d2ef0062df148a4b060353ac",
+      "size": 31377
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/bs/alone.ogg",
+      "sha1": "ce98159d7418a2fc0c6f8daeb15a70eb48747809",
+      "size": 1140017
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/bs/alone2.ogg",
+      "sha1": "8f19336845d822d5a0d6ea3c485bcd848e41b597",
+      "size": 1037613
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/bs/battle_end.ogg",
+      "sha1": "1bd87295a730c7812ee03f5cbe04cfbcb41d9c8a",
+      "size": 833975
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/bs/battle_music.ogg",
+      "sha1": "a6f16baf124a139aacf5703887fe187ca2c34a2c",
+      "size": 2150275
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/bs/confusion.ogg",
+      "sha1": "eda522a7d8d8fdcd582c86baa65f28db293a7183",
+      "size": 2200558
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/bs/ded_intro.ogg",
+      "sha1": "05d706e3b8643e6c7fe1227168228cc9d790851a",
+      "size": 2179067
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/bs/dia_del_platano.ogg",
+      "sha1": "1be0907d070d6da88068881bf59308b81d3b197d",
+      "size": 1450681
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/bs/drums.ogg",
+      "sha1": "f337c88ae89691c21888c5638c1b047d85a487e7",
+      "size": 978227
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/bs/fanatica.ogg",
+      "sha1": "40584279dd5cef983cd5e76b505f3cebb42b3870",
+      "size": 3203611
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/bs/gulag_song.ogg",
+      "sha1": "ff8d5a928161d00bdc2ad7f2b661cd1e4753c96c",
+      "size": 1443541
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/bs/no_time.ogg",
+      "sha1": "59ca103100e9853a8233482ee27a33ae2dd95faa",
+      "size": 2210438
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/bs/no_time2.ogg",
+      "sha1": "6acc2c1dbb9e8db5717451de6de39a801aab0ccc",
+      "size": 1048545
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/bs/payetayupaayetayupa.ogg",
+      "sha1": "174b164376f4dd5a74d4d810c8f74c8fa5915f76",
+      "size": 230119
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/bs/putin_walk.ogg",
+      "sha1": "b0646b9ca59f0d4dd6ef76486acdf926bd7290e4",
+      "size": 2333624
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/5s.ogg",
+      "sha1": "86c512b25891e7378493d773f7813edd96dc7db7",
+      "size": 9844
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/aiming.ogg",
+      "sha1": "a7dc7fa82e094ffb87112cd04276911f9599717e",
+      "size": 59669
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/bells.ogg",
+      "sha1": "a8dfbbaa1dc87dd23dafb600c60f4ef9f5f604d6",
+      "size": 124275
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/boxing_bell.ogg",
+      "sha1": "182fe381f6500213cd813f54ceb686fc2ba37534",
+      "size": 90815
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/casino.ogg",
+      "sha1": "d621ba11e3696f32ec29e0a6550afd8799f7d0eb",
+      "size": 138007
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/darkness.ogg",
+      "sha1": "4271ba3b8421907494b888c196285d5bfeb35e51",
+      "size": 155537
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/daze.ogg",
+      "sha1": "41bb409abd43cd2eb4fcbbcb539cebcc2a9eaff7",
+      "size": 143477
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/drums_pre.ogg",
+      "sha1": "0b2be60a1cb0fdd86ffaf723acbce98ba3e355ab",
+      "size": 190887
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/fail.ogg",
+      "sha1": "cd5241080eb81623e7e30185d7539a67ad58dff2",
+      "size": 5943
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/flashbang.ogg",
+      "sha1": "01c28fad8a3cfe82c49d316410f89c9b2f733bfa",
+      "size": 38549
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/gas.ogg",
+      "sha1": "f3d8980459c9a19e340afa29cf4577e82fadc83c",
+      "size": 204133
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/gongsound.ogg",
+      "sha1": "e742d853a0abc77fc57d012bb8ad1649514477f5",
+      "size": 49632
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/heart.ogg",
+      "sha1": "225eac25768367a275b0883d18b3cf5d23f68ee6",
+      "size": 630901
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/impact.ogg",
+      "sha1": "171ea6923557123899166cb622efe945c4f28c55",
+      "size": 63477
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/impact2.ogg",
+      "sha1": "4d430108b2fccd42d8ed88df52a5a26988b29fd8",
+      "size": 62027
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/laughter.ogg",
+      "sha1": "8a10563701ee713bf9c6d9176d795b645a6758d0",
+      "size": 88293
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/message.ogg",
+      "sha1": "b75a30c322af4cc1252aa95e7e3210184c975fa4",
+      "size": 151994
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/pajaros.ogg",
+      "sha1": "17239c3409df2cf580804ea9ddb5816f5c28a7d3",
+      "size": 1865054
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/pajaros2.ogg",
+      "sha1": "c72eb612156f5d17715ea801313cb095489572ef",
+      "size": 5629914
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/panic.ogg",
+      "sha1": "80fafbcd15233c8ee7ad20b21022f92bbad75277",
+      "size": 55489
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/premiomayor.ogg",
+      "sha1": "ef1d9cef122c335770062a320363c5757d452fda",
+      "size": 115817
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/premiomenor.ogg",
+      "sha1": "a074f2040a1b2989fb0bfd447560d06490b23df9",
+      "size": 78165
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/reviil.ogg",
+      "sha1": "90566a530debdeaeb295007bfcb03ddd2b132e31",
+      "size": 191576
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/revivir.ogg",
+      "sha1": "e85fcf451a0e521ca84539421f4aaabb09cdf35b",
+      "size": 69459
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/ruleta_message.ogg",
+      "sha1": "674b7d4524005b5b61cad2c1e97c06d5f33920d7",
+      "size": 25731
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/scare.ogg",
+      "sha1": "167f9eadd58e57dcf6c4a4af232d09fa4b63ae5d",
+      "size": 62843
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/silvido.ogg",
+      "sha1": "1eca7238d5dfdffdcc5a8b1c32a0b719d1f08144",
+      "size": 21005
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/silvido2.ogg",
+      "sha1": "22892af378f090a0f622f4d9fcc948b7609efab4",
+      "size": 27269
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/sonidorecompensa.ogg",
+      "sha1": "5700e5a80cf40fd668c9bf2354e7814bd1c724be",
+      "size": 40055
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/spin.ogg",
+      "sha1": "50b632e8772af7fc3ff95a01523b2139a98a762b",
+      "size": 13202
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/tension.ogg",
+      "sha1": "facaa30358ab9e5360a9bcdefefa60d579de3863",
+      "size": 3179067
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/tension2.ogg",
+      "sha1": "266e98b549e29840ceab284f081359c8fe884ee1",
+      "size": 146765
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/terremoto.ogg",
+      "sha1": "d45c654e64cc26b6a987c57e800c2ed4fd010ba5",
+      "size": 155375
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/trueno.ogg",
+      "sha1": "9bcafb290a8ba21ccc3c3000abedddd90eebb056",
+      "size": 83246
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/weird.ogg",
+      "sha1": "ce48c3b6559e955a66395c0c920adf4c36ad96aa",
+      "size": 101370
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds/sfx/win.ogg",
+      "sha1": "871a39a21aa687fd1adc35e554ce38d617d2e5f0",
+      "size": 7675
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/dedsafio/sounds.json",
+      "sha1": "9980ecb0da5b9ca464ccf8e10abf4461699ec28b",
+      "size": 4696
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/ftbchunks/textures/circle_border.png",
+      "sha1": "29581e5eab9e1d87f04babefe9e99c66ee5d3e00",
+      "size": 1383
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/ftbchunks/textures/circle_mask.png",
+      "sha1": "d4aa3b56d822d81025c84798792ec3735615f72b",
+      "size": 1722
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/ftbchunks/textures/compass_e.png",
+      "sha1": "da36d9c62f5b3946591d796da908d3d56f7578e6",
+      "size": 141
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/ftbchunks/textures/compass_n.png",
+      "sha1": "f4a6c6fecfa7aa662b9023e9f9ed3ed34f360a9f",
+      "size": 144
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/ftbchunks/textures/compass_s.png",
+      "sha1": "0c2e4a0a11891deea0d30ee847924b6181de8fe3",
+      "size": 153
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/ftbchunks/textures/compass_w.png",
+      "sha1": "9d7e653c5edea6f5820582200b7b955909f9db28",
+      "size": 144
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/ftbchunks/textures/player.png",
+      "sha1": "4870579d0a1b16e4cdd4eb61d683b29e8e1ae582",
+      "size": 189
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/ftbchunks/textures/waypoint_death.png",
+      "sha1": "5793944ccbee871a3f92387a27b828a163a39707",
+      "size": 222
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/ftbchunks/textures/waypoint_death_old.png",
+      "sha1": "89b36e0ec0cef9f006340a25c4392d12a3211c7e",
+      "size": 236
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/ftbchunks/textures/waypoint_default.png",
+      "sha1": "febddf0faa372432cd3d939ab257381eaf53ca96",
+      "size": 114
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/ftbchunks/textures/waypoint_home.png",
+      "sha1": "7b6766720818652809767d5e8c8fb88bf99d88fb",
+      "size": 218
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/ftbchunks/textures/waypoint_spawn.png",
+      "sha1": "787a16b9a07595fa7a2a01937b2caa8488527eec",
+      "size": 189
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/ftbchunks/textures/waystone.png",
+      "sha1": "342a74545275a4fc8f90fe63a39f6743319cd297",
+      "size": 5626
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/ftblibrary/textures/gui/background_squares.png",
+      "sha1": "d63e62ab9b266817fe39c2da794d137417e046f8",
+      "size": 33840
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/ftbquests/ftb_quests_theme.txt",
+      "sha1": "d9c2bdccb9f4c2e21257d3cdb53d7c5e836e428a",
+      "size": 3573
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/ftbquests/textures/shapes/circle/background.png",
+      "sha1": "d07434249b51f0b37ae27b7bdd030a41a76593bf",
+      "size": 202
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/ftbquests/textures/shapes/circle/outline.png",
+      "sha1": "d07434249b51f0b37ae27b7bdd030a41a76593bf",
+      "size": 202
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/ftbquests/textures/shapes/circle/shape.png",
+      "sha1": "d07434249b51f0b37ae27b7bdd030a41a76593bf",
+      "size": 202
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/ftbquests/textures/shapes/square/background.png",
+      "sha1": "67d93b6aa21f21440babebb79893e92b49c6fad3",
+      "size": 253
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/ftbquests/textures/shapes/square/outline.png",
+      "sha1": "67d93b6aa21f21440babebb79893e92b49c6fad3",
+      "size": 253
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/ftbquests/textures/shapes/square/shape.png",
+      "sha1": "67d93b6aa21f21440babebb79893e92b49c6fad3",
+      "size": 253
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/block/beacon.png",
+      "sha1": "f8c758577e8412e554623596b8b439b33b4056a5",
+      "size": 249
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/block/blue_concrete_powder.png",
+      "sha1": "2ec9dd2d820a27eb83fa3043a700b18508e049e0",
+      "size": 897
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/block/blue_concrete_powder.png.mcmeta",
+      "sha1": "f63918042485cf8ad6b12f597daaf318d43d229c",
+      "size": 70
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/block/light_blue_concrete_powder.png",
+      "sha1": "92c668b449d4ff44edb4c895d3731a854d621f0b",
+      "size": 831
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/block/light_blue_concrete_powder.png.mcmeta",
+      "sha1": "f63918042485cf8ad6b12f597daaf318d43d229c",
+      "size": 70
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/block/lime_concrete_powder.png",
+      "sha1": "8d0654a595ee6b3aadbc7294235b110049ee4723",
+      "size": 1065
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/block/lime_concrete_powder.png.mcmeta",
+      "sha1": "f63918042485cf8ad6b12f597daaf318d43d229c",
+      "size": 70
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/block/orange_concrete_powder.png",
+      "sha1": "f0cb0a856c2014c607f7c35c1e8b16bcf70cd389",
+      "size": 1102
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/block/orange_concrete_powder.png.mcmeta",
+      "sha1": "f63918042485cf8ad6b12f597daaf318d43d229c",
+      "size": 70
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/block/pink_concrete_powder.png",
+      "sha1": "4c3466d0566a9eaf59b5fede6d9df18e3dcff87e",
+      "size": 342
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/block/pink_concrete_powder.png.mcmeta",
+      "sha1": "f63918042485cf8ad6b12f597daaf318d43d229c",
+      "size": 70
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/block/purple_concrete_powder.png",
+      "sha1": "e2130ee366badcc86e53dc2d090aa18d3faf9545",
+      "size": 1646
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/block/purple_concrete_powder.png.mcmeta",
+      "sha1": "f63918042485cf8ad6b12f597daaf318d43d229c",
+      "size": 70
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/block/red_concrete_powder.png",
+      "sha1": "b569180e9c8981c2812a370d56d47c2ff18e4244",
+      "size": 818
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/block/red_concrete_powder.png.mcmeta",
+      "sha1": "f63918042485cf8ad6b12f597daaf318d43d229c",
+      "size": 70
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/block/yellow_concrete_powder.png",
+      "sha1": "2b448cb085bfe97c906cb895f9ffacf80fa07eeb",
+      "size": 1203
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/block/yellow_concrete_powder.png.mcmeta",
+      "sha1": "f63918042485cf8ad6b12f597daaf318d43d229c",
+      "size": 70
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/illager/evoker.png",
+      "sha1": "e9f067af149a103998dd02ddbe53cacf867a267c",
+      "size": 3605
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/illager/evoker_fangs.png",
+      "sha1": "4e720bb552f927fa58219ce23c1a9bdf5daf33ff",
+      "size": 599
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/illager/illusioner.png",
+      "sha1": "e5cbf6c2138dd5302a84ab60f997766129221cf6",
+      "size": 3557
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/illager/pillager.png",
+      "sha1": "386e902b73a0fb3e50eb6c85ae0b0b3d4ccfa410",
+      "size": 2713
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/illager/ravager.png",
+      "sha1": "4ad74d1a411f17cfd952ce4db32f9008400c4f96",
+      "size": 2257
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/illager/vex.png",
+      "sha1": "b5a939235e4bf955966873348e11ecfdaf295865",
+      "size": 996
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/illager/vindicator.png",
+      "sha1": "3a8592e5d4423479dc13b84b176f8cd30c604b75",
+      "size": 3400
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/ravager.png",
+      "sha1": "14a2e6a07374c98ec29674bb83df2a1bb6bd721f",
+      "size": 5982
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/vex.png",
+      "sha1": "b5a939235e4bf955966873348e11ecfdaf295865",
+      "size": 996
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/armorer.png",
+      "sha1": "38136c1eddef934b90db6a3f539f8f92e31a83ff",
+      "size": 9252
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/armorer.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/butcher.png",
+      "sha1": "f8d0ec3802543b96821dfe6c554781721a7c6777",
+      "size": 6343
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/butcher.png.mcmeta",
+      "sha1": "c7c6a47b5033020405c4ecb51fbf6a27c22e83fc",
+      "size": 53
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/cartographer.png",
+      "sha1": "74a65a53d62f0d21875a405ecb894231b7b2d858",
+      "size": 6275
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/cartographer.png.mcmeta",
+      "sha1": "c7c6a47b5033020405c4ecb51fbf6a27c22e83fc",
+      "size": 53
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/cleric.png",
+      "sha1": "390f9eff1183ed841ffba068cc5e1f00bdf9636e",
+      "size": 5721
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/cleric.png.mcmeta",
+      "sha1": "c7c6a47b5033020405c4ecb51fbf6a27c22e83fc",
+      "size": 53
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/farmer.png",
+      "sha1": "27f13875b8920a7900bb264aa4422fbafcf29ff7",
+      "size": 7721
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/farmer.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/fisherman.png",
+      "sha1": "a5faffc0c6e18494977b4bc0b7574204ac0ca80d",
+      "size": 7618
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/fisherman.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/fletcher.png",
+      "sha1": "bc76e4c56569c83df9548fab245ea45dc5c0bcdc",
+      "size": 7940
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/fletcher.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/leatherworker.png",
+      "sha1": "056342e032507c7998eecb687cedfa494be4fa4c",
+      "size": 9786
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/leatherworker.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/librarian.png",
+      "sha1": "7bd38f03e5e7ebe5098f73b0ada40ec497607c8a",
+      "size": 7714
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/librarian.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/mason.png",
+      "sha1": "a4e6824237dd36b0a821f0daa1248e90db9b40b2",
+      "size": 7325
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/mason.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/nitwit.png",
+      "sha1": "98ebb32c73ce8eefb08b866c45ef0319b4d7ba37",
+      "size": 2767
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/nitwit.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/shepherd.png",
+      "sha1": "0d87713918c06721aa56e84e13bb0f9add32ef7d",
+      "size": 9970
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/shepherd.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/toolsmith.png",
+      "sha1": "f11ac0803165ed7f3c6e39ef264a89a2544eb5f9",
+      "size": 9174
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/toolsmith.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/weaponsmith.png",
+      "sha1": "6007db8236bf1125642c5331e89611082d59cfe3",
+      "size": 9484
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession/weaponsmith.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession_level/diamond.png",
+      "sha1": "42e6b1843c1ebb889a0ab278de39f95188c68491",
+      "size": 385
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession_level/diamond_e.png",
+      "sha1": "42e6b1843c1ebb889a0ab278de39f95188c68491",
+      "size": 385
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession_level/emerald.png",
+      "sha1": "aca127b8d0a2fd2c57ed89753363e1510970205e",
+      "size": 342
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession_level/emerald_e.png",
+      "sha1": "aca127b8d0a2fd2c57ed89753363e1510970205e",
+      "size": 342
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession_level/gold.png",
+      "sha1": "fff5833222baff906c33b25259f812f73b4865c3",
+      "size": 393
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession_level/gold_e.png",
+      "sha1": "fff5833222baff906c33b25259f812f73b4865c3",
+      "size": 393
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession_level/iron.png",
+      "sha1": "f496f5109dd807161d90b8ff17a3f23fe1430674",
+      "size": 363
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/profession_level/stone.png",
+      "sha1": "e5369a97fed0af213743bd1d237a51256538bdd2",
+      "size": 342
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/type/desert.png",
+      "sha1": "3159210efcc0dcc17c4e82a1b33b01d2022487ff",
+      "size": 4797
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/type/jungle.png",
+      "sha1": "c5ccf56e2a5045a5b350aa872068224793ae0465",
+      "size": 5742
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/type/plains.png",
+      "sha1": "c5ccf56e2a5045a5b350aa872068224793ae0465",
+      "size": 5742
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/type/savanna.png",
+      "sha1": "c5ccf56e2a5045a5b350aa872068224793ae0465",
+      "size": 5742
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/type/snow.png",
+      "sha1": "c5ccf56e2a5045a5b350aa872068224793ae0465",
+      "size": 5742
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/type/swamp.png",
+      "sha1": "c5ccf56e2a5045a5b350aa872068224793ae0465",
+      "size": 5742
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/type/taiga.png",
+      "sha1": "c5ccf56e2a5045a5b350aa872068224793ae0465",
+      "size": 5742
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/villager/villager.png",
+      "sha1": "6a3f8e945ab0f6c17407c3996c32b8f38e756ea9",
+      "size": 2541
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/wandering_trader.png",
+      "sha1": "9322ab4a7a5aeda8ad945704de2ffef5b700f852",
+      "size": 6800
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/wither/wither.png",
+      "sha1": "c5140d0866039d0741fc84fb327bfb04369869c1",
+      "size": 3188
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/wither/wither_armor.png",
+      "sha1": "3fb5207925b15471f0bd192c47d8d2bb64c43b84",
+      "size": 143
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/entity/wither/wither_invulnerable.png",
+      "sha1": "c5140d0866039d0741fc84fb327bfb04369869c1",
+      "size": 3188
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/font/default.json",
+      "sha1": "130231f965bcfad221c2c80d2a4ce7d8882b1d7a",
+      "size": 4655
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/lang/de_de.json",
+      "sha1": "ed0ee0141b1ca7374b403d11f6a2e3abcb13d570",
+      "size": 416
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/lang/en_au.json",
+      "sha1": "a0fc39a4680d1e564659cbc212bf29a611e3d1a8",
+      "size": 414
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/lang/en_ca.json",
+      "sha1": "c664378217447fb17e1615557d09605c39837c53",
+      "size": 411
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/lang/en_gb.json",
+      "sha1": "a371e66417ea9e31e39cd13c18044f90c53101e1",
+      "size": 419
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/lang/en_nz.json",
+      "sha1": "4c79e31a353dac70eb777a7904c53b7e3c64bdc7",
+      "size": 416
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/lang/en_us.json",
+      "sha1": "2653aee37483d703bf7601e1b0b4dc54ed4f2408",
+      "size": 418
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/lang/es_ar.json",
+      "sha1": "0e73550d153c99684645b0d6919e0071516b89ed",
+      "size": 415
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/lang/es_cl.json",
+      "sha1": "748ebd53a17cc54b16cf7e2eeec4b7df21587e1c",
+      "size": 412
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/lang/es_ec.json",
+      "sha1": "1c43f28aaa3a355afca24736a2eefe859ee9c437",
+      "size": 414
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/lang/es_es.json",
+      "sha1": "8089c5aa12307753b815acef4e036695a118e5a6",
+      "size": 414
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/lang/es_mx.json",
+      "sha1": "16897dc40254d3b9ea8bb6afb6c36552cdd5ecbf",
+      "size": 413
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/lang/es_uy.json",
+      "sha1": "379595b11e1e711019e71feabcde223a9b06ecfc",
+      "size": 413
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/lang/es_ve.json",
+      "sha1": "d9c623b0a75a07e541ba20047c809ebde4f7db07",
+      "size": 415
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/models/item/back_arrow.json",
+      "sha1": "414568bb0ac81b81eb7463aa56a7bd55cbfe9107",
+      "size": 643
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/models/item/carved_pumpkin.json",
+      "sha1": "dc37f34d5d8545d0f80403742cde839fba1628bc",
+      "size": 176
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/models/item/feather.json",
+      "sha1": "d6ff7b46a9a4e003fd7ca6b9c1553ecc13c96672",
+      "size": 193
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/models/item/head_player_revive.json",
+      "sha1": "7fac597449ce4a4cdd3d0446450c27383575d9ca",
+      "size": 737
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/models/item/next_arrow.json",
+      "sha1": "aca7fabbac98c27fe566a38d095da7ad9b340cd0",
+      "size": 687
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/models/item/player_head.json",
+      "sha1": "ee5962826c3566876edf8723a2bc9519824eccd7",
+      "size": 51
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/models/item/pumpkin/1.json",
+      "sha1": "948e7de8b67555a54f8a5e71a8dbe2d80db66a68",
+      "size": 71
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/models/item/revivir_btn.json",
+      "sha1": "376f1dc77f72f8c6caf0a64f04ee0cc3755fa757",
+      "size": 750
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/models/item/revivir_menu.json",
+      "sha1": "c5d99116f11c96011f7a6bc01138d8e7a7c82384",
+      "size": 731
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/models/item/revivir_menu2.json",
+      "sha1": "01a739b2e0973b760dc679df936350e7a395946b",
+      "size": 731
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/models/item/steve.json",
+      "sha1": "d9ffecc23d65709bb64df6c5c13af98cbc57ce81",
+      "size": 7119
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/models/item/stick.json",
+      "sha1": "2e0ca9ea8a164d07f8d15f1d6772d1dd7ccd13b5",
+      "size": 562
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/models/item/totem_of_undying.json",
+      "sha1": "68077e801169b0d795678860c46a9023dd903553",
+      "size": 529
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/models/totems/1.json",
+      "sha1": "c6359c08ffa59c9dd346280218120c43b724993d",
+      "size": 71
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/models/totems/2.json",
+      "sha1": "8a177ebe6862c469c6ec23c662ce711297a8eb5b",
+      "size": 71
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/models/totems/3.json",
+      "sha1": "52b6af57ddc4442c1ed1e1c98744d2cfaa7bc9d9",
+      "size": 71
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/models/totems/4.json",
+      "sha1": "8c6f43102d63f66316390db9c55d142e04bb3884",
+      "size": 71
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/models/totems/5.json",
+      "sha1": "db6950cafe3fdd6bfacc2c6cb030abb649e0f966",
+      "size": 71
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/optifine/cem/head_wither_skeleton.jem",
+      "sha1": "e9303faf61571ee61c760b7e1271d23278657305",
+      "size": 3787
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/optifine/cem/illusioner.jem",
+      "sha1": "9001ba83292e422aba1e23a2f619138b78237a36",
+      "size": 3780
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/optifine/cem/pillager.jem",
+      "sha1": "70bd0837ef8656ea1145244cfe656ce917593012",
+      "size": 5620
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/optifine/cem/ravager.jem",
+      "sha1": "0ff50756d0b869a62a01514f5a12af6df54204e3",
+      "size": 2975
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/optifine/cem/skull.jem",
+      "sha1": "734c5decd379ec542962a804f4972881e3679620",
+      "size": 2367
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/optifine/cem/vex.jem",
+      "sha1": "4ffe5c67afa2ff34c16e8d4036d605ede8ebd974",
+      "size": 2229
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/optifine/cem/vex.png",
+      "sha1": "b5a939235e4bf955966873348e11ecfdaf295865",
+      "size": 996
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/optifine/cem/villager.jem",
+      "sha1": "e6e2f2e5f4a6a6570e74fc328e8b7bc47c6360bb",
+      "size": 37395
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/optifine/cem/vindicator.jem",
+      "sha1": "fc1b16afa62229013a1b7964875df97673c1ee73",
+      "size": 7202
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/optifine/cem/wandering_trader.jem",
+      "sha1": "71f7f06d56baa8310fca8cb047aac3447e4d4633",
+      "size": 20910
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/optifine/cem/wither.jem",
+      "sha1": "98e626e67dac202bb0682e8261ddc25c71f3cea1",
+      "size": 20862
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/optifine/cem/wither_armor.jem",
+      "sha1": "2cbbce23d6ff0d444e486523168ca43cdedcc615",
+      "size": 21567
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/optifine/cem/wither_invulnerable.jem",
+      "sha1": "2cbbce23d6ff0d444e486523168ca43cdedcc615",
+      "size": 21567
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/optifine/cem/wither_skull.jem",
+      "sha1": "d651fbb07a424ad3cee3e86d71542e52c8b5c67c",
+      "size": 3542
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/optifine/cit/wither_skull_custom/wither_skull.properties",
+      "sha1": "cb00f2bcd4390d18cd8a79cd0defc7a46b5bdce3",
+      "size": 109
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/optifine/cit/wither_skull_custom/wither_skull_model.json",
+      "sha1": "88146310541cac622bb2900066671a5daa6bb3e3",
+      "size": 6023
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/optifine/cit/wither_skull_custom/wither_skull_texture.png",
+      "sha1": "c5140d0866039d0741fc84fb327bfb04369869c1",
+      "size": 3188
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/optifine/emissive.properties",
+      "sha1": "577d89738e60ebfbf2dbbdd5b2ff2c3400933a10",
+      "size": 18
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/core/particle.fsh",
+      "sha1": "64b0389ccb72c8161e2f4edade6a870edd998ca9",
+      "size": 1245
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/core/particle.json",
+      "sha1": "3647d4af6a6ae037e2bd3bccb7e425e3f06a211d",
+      "size": 1121
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/core/particle.vsh",
+      "sha1": "0a05d92aeaece3824ad537b49f7e9c111f2b0750",
+      "size": 1390
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/core/rendertype_text.fsh",
+      "sha1": "5168fc1ab196d300303a6ae2dea519597bd94c7f",
+      "size": 387
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/core/rendertype_text.json",
+      "sha1": "62cc4fddb41026fcfb8fc10e9df4c2cfddaf586b",
+      "size": 729
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/core/rendertype_text.vsh",
+      "sha1": "9eb52e36f27dce85f43763ce170ee45a4f2040fb",
+      "size": 2394
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/include/emissive_utils.glsl",
+      "sha1": "033a7646eb3a1b1b6b482972861abd23a6648073",
+      "size": 4635
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/post/transparency.json",
+      "sha1": "c877c36a5eafa73fa0fb24fa5b90c48e7ab64be3",
+      "size": 3099
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/post/transparency_debug.json",
+      "sha1": "b5404c2cc67505389b6f65dfa2ba6458bf663a8d",
+      "size": 3608
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/program/debug/copy.json",
+      "sha1": "1a64b69de4ae1c7f4c588193d6dd3b327fc88dbc",
+      "size": 619
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/program/debug/copy.vsh",
+      "sha1": "f28af3522fa211359e1c7bf1aa505f0c6d4d1323",
+      "size": 473
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/program/debug/draw_text.fsh",
+      "sha1": "c6cf696ee9bf6d6cc1cc40cc3385ca6a4e30b5c9",
+      "size": 4407
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/program/debug/draw_text.json",
+      "sha1": "5e360af8de8d2578faf0469e7097904860503133",
+      "size": 722
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/program/toggler/copy.json",
+      "sha1": "3953c5545b4c50e38fa2867a5eea21d8b0866b90",
+      "size": 821
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/program/toggler/copy.vsh",
+      "sha1": "069b1343438f855d8254c5d986447ef9ea6feb00",
+      "size": 488
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/program/toggler/findcolor.fsh",
+      "sha1": "6e11b6ad06611d1960828d49d00f75039087b8d6",
+      "size": 1293
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/program/toggler/findcolor.json",
+      "sha1": "366f50a0e768aa07adca7d3aa22bd36768eac36d",
+      "size": 665
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/program/toggler/remove.fsh",
+      "sha1": "339cc41a6abbaa71b9912d8b93c97142713650c7",
+      "size": 386
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/program/toggler/remove.json",
+      "sha1": "a6e1e078d3ce453a099e0160db595b17edbb0259",
+      "size": 831
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/program/toggler/shader.fsh",
+      "sha1": "48334661170b760d444404b9044efb94cce4b3e9",
+      "size": 2901
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/program/toggler/shader.json",
+      "sha1": "4822e4275b3fd1a9783191758dd303b0027caa07",
+      "size": 1195
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/shaders/program/toggler/shader.vsh",
+      "sha1": "e73e2517afe4c10bf1766af596be523bad334e99",
+      "size": 506
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/sounds/custom_sounds/muerte.ogg",
+      "sha1": "d8671ff81ced9b1a4978cb8fca22d01f8719dd35",
+      "size": 81037
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/sounds/custom_sounds/nutria.ogg",
+      "sha1": "968fb188e99e345837a062e544e87037ee77ad48",
+      "size": 449262
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/sounds/custom_sounds/ruleta.ogg",
+      "sha1": "73111ebfc1ff0fe5c045b4731ab6682326e08ead",
+      "size": 206811
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/sounds.json",
+      "sha1": "4ca8bb53c058118477ca43b61e5fbb48febd0b2d",
+      "size": 397
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/texts/splashes.txt",
+      "sha1": "628fd875931f768274eb498b58360d9b2f6a89ad",
+      "size": 169
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/custom/air.png",
+      "sha1": "da523666377420090d58f0e0841d48758e31ae51",
+      "size": 204
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/custom/apagada.png",
+      "sha1": "6d30aa46485d03e1076c530e667c2f0234e5cb1b",
+      "size": 5981
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/custom/bar0.png",
+      "sha1": "fc7579bfe74b2a42f2b6ff07a424ae3930093fbd",
+      "size": 6196
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/custom/bar1.png",
+      "sha1": "aada1b35280f8970de1f49f52c9a2d4cb229c124",
+      "size": 6315
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/custom/black_overlay.png",
+      "sha1": "0755522094b3a32aac3aaff187f871df166897aa",
+      "size": 616
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/custom/dednegro.png",
+      "sha1": "bf066810c0578f695596a3f2ceb3043ff165b3af",
+      "size": 31188
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/custom/encendida.png",
+      "sha1": "2e32726c26120f2f703065db7b5f12da02676b5d",
+      "size": 6259
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/custom/flitro_screen.png",
+      "sha1": "998d4fad1059b1741740e6110bf3f6f6ea80504e",
+      "size": 593
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/custom/light_screen.png",
+      "sha1": "7d0312817c39908594a1fb671dcd5b313cceaa2b",
+      "size": 1956
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/custom/media_amarilla.png",
+      "sha1": "6679006982f69bcfaa551705e8f709c086718849",
+      "size": 6031
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/custom/media_azul.png",
+      "sha1": "89a4c8c08ef8d310a55331285069c40a8add81a6",
+      "size": 5954
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/custom/media_celeste.png",
+      "sha1": "e65eef437730966a0f0e133a4ef149a80622ea27",
+      "size": 6029
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/custom/media_fuxia.png",
+      "sha1": "0c31c2738c22b261684d2f63bcdfb5ea920d56f2",
+      "size": 6040
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/custom/media_morada.png",
+      "sha1": "458b28c40945bce71799c34d9d47dc884b60e145",
+      "size": 6008
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/custom/media_naranja.png",
+      "sha1": "24b38f476679560c1b4700021b3b275c030101a0",
+      "size": 6004
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/custom/media_roja.png",
+      "sha1": "84eca4ffde9d3068ebc9115aa4f18e70be1d2a94",
+      "size": 5930
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/custom/media_verde.png",
+      "sha1": "b56616b98b329e12741d16d104944c8d8799579e",
+      "size": 5950
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/custom/nutria.png",
+      "sha1": "4f2fa239c2408acb7383cc09c70d877b8cd8ac20",
+      "size": 1897
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/custom/scoreboard.png",
+      "sha1": "72e22ae8c8fb52e51c9137e8ea60850cdf03e71c",
+      "size": 42882
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/custom/volty.png",
+      "sha1": "01f7c15715636d6b85da0dbeca6a4f8718fe9550",
+      "size": 9324
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/illager/evoker.png",
+      "sha1": "e9f067af149a103998dd02ddbe53cacf867a267c",
+      "size": 3605
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/illager/evoker_fangs.png",
+      "sha1": "4e720bb552f927fa58219ce23c1a9bdf5daf33ff",
+      "size": 599
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/illager/illusioner.png",
+      "sha1": "e5cbf6c2138dd5302a84ab60f997766129221cf6",
+      "size": 3557
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/illager/pillager.png",
+      "sha1": "386e902b73a0fb3e50eb6c85ae0b0b3d4ccfa410",
+      "size": 2713
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/illager/ravager.png",
+      "sha1": "4ad74d1a411f17cfd952ce4db32f9008400c4f96",
+      "size": 2257
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/illager/vex.png",
+      "sha1": "b5a939235e4bf955966873348e11ecfdaf295865",
+      "size": 996
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/illager/vindicator.png",
+      "sha1": "3a8592e5d4423479dc13b84b176f8cd30c604b75",
+      "size": 3400
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/ravager.png",
+      "sha1": "14a2e6a07374c98ec29674bb83df2a1bb6bd721f",
+      "size": 5982
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/vex.png",
+      "sha1": "b5a939235e4bf955966873348e11ecfdaf295865",
+      "size": 996
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/armorer.png",
+      "sha1": "38136c1eddef934b90db6a3f539f8f92e31a83ff",
+      "size": 9252
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/armorer.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/butcher.png",
+      "sha1": "f8d0ec3802543b96821dfe6c554781721a7c6777",
+      "size": 6343
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/butcher.png.mcmeta",
+      "sha1": "c7c6a47b5033020405c4ecb51fbf6a27c22e83fc",
+      "size": 53
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/cartographer.png",
+      "sha1": "74a65a53d62f0d21875a405ecb894231b7b2d858",
+      "size": 6275
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/cartographer.png.mcmeta",
+      "sha1": "c7c6a47b5033020405c4ecb51fbf6a27c22e83fc",
+      "size": 53
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/cleric.png",
+      "sha1": "390f9eff1183ed841ffba068cc5e1f00bdf9636e",
+      "size": 5721
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/cleric.png.mcmeta",
+      "sha1": "c7c6a47b5033020405c4ecb51fbf6a27c22e83fc",
+      "size": 53
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/farmer.png",
+      "sha1": "27f13875b8920a7900bb264aa4422fbafcf29ff7",
+      "size": 7721
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/farmer.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/fisherman.png",
+      "sha1": "a5faffc0c6e18494977b4bc0b7574204ac0ca80d",
+      "size": 7618
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/fisherman.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/fletcher.png",
+      "sha1": "bc76e4c56569c83df9548fab245ea45dc5c0bcdc",
+      "size": 7940
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/fletcher.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/leatherworker.png",
+      "sha1": "056342e032507c7998eecb687cedfa494be4fa4c",
+      "size": 9786
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/leatherworker.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/librarian.png",
+      "sha1": "7bd38f03e5e7ebe5098f73b0ada40ec497607c8a",
+      "size": 7714
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/librarian.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/mason.png",
+      "sha1": "a4e6824237dd36b0a821f0daa1248e90db9b40b2",
+      "size": 7325
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/mason.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/nitwit.png",
+      "sha1": "98ebb32c73ce8eefb08b866c45ef0319b4d7ba37",
+      "size": 2767
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/nitwit.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/shepherd.png",
+      "sha1": "0d87713918c06721aa56e84e13bb0f9add32ef7d",
+      "size": 9970
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/shepherd.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/toolsmith.png",
+      "sha1": "f11ac0803165ed7f3c6e39ef264a89a2544eb5f9",
+      "size": 9174
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/toolsmith.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/weaponsmith.png",
+      "sha1": "6007db8236bf1125642c5331e89611082d59cfe3",
+      "size": 9484
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession/weaponsmith.png.mcmeta",
+      "sha1": "7b7a6562331c67e10a3fe6b88371ffb7ef4a04d0",
+      "size": 50
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession_level/diamond.png",
+      "sha1": "42e6b1843c1ebb889a0ab278de39f95188c68491",
+      "size": 385
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession_level/diamond_e.png",
+      "sha1": "42e6b1843c1ebb889a0ab278de39f95188c68491",
+      "size": 385
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession_level/emerald.png",
+      "sha1": "aca127b8d0a2fd2c57ed89753363e1510970205e",
+      "size": 342
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession_level/emerald_e.png",
+      "sha1": "aca127b8d0a2fd2c57ed89753363e1510970205e",
+      "size": 342
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession_level/gold.png",
+      "sha1": "fff5833222baff906c33b25259f812f73b4865c3",
+      "size": 393
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession_level/gold_e.png",
+      "sha1": "fff5833222baff906c33b25259f812f73b4865c3",
+      "size": 393
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession_level/iron.png",
+      "sha1": "f496f5109dd807161d90b8ff17a3f23fe1430674",
+      "size": 363
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/profession_level/stone.png",
+      "sha1": "e5369a97fed0af213743bd1d237a51256538bdd2",
+      "size": 342
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/type/desert.png",
+      "sha1": "3159210efcc0dcc17c4e82a1b33b01d2022487ff",
+      "size": 4797
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/type/jungle.png",
+      "sha1": "c5ccf56e2a5045a5b350aa872068224793ae0465",
+      "size": 5742
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/type/plains.png",
+      "sha1": "c5ccf56e2a5045a5b350aa872068224793ae0465",
+      "size": 5742
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/type/savanna.png",
+      "sha1": "c5ccf56e2a5045a5b350aa872068224793ae0465",
+      "size": 5742
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/type/snow.png",
+      "sha1": "c5ccf56e2a5045a5b350aa872068224793ae0465",
+      "size": 5742
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/type/swamp.png",
+      "sha1": "c5ccf56e2a5045a5b350aa872068224793ae0465",
+      "size": 5742
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/type/taiga.png",
+      "sha1": "c5ccf56e2a5045a5b350aa872068224793ae0465",
+      "size": 5742
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/villager/villager.png",
+      "sha1": "6a3f8e945ab0f6c17407c3996c32b8f38e756ea9",
+      "size": 2541
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/entity/wandering_trader.png",
+      "sha1": "9322ab4a7a5aeda8ad945704de2ffef5b700f852",
+      "size": 6800
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/font/ascii.png",
+      "sha1": "a7fdbddedde6a27ee3079e7116de4720e0b875da",
+      "size": 1663
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/accessibility.png",
+      "sha1": "df889a464dde003c810afce3aa135a3b1adc51b5",
+      "size": 684
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/advancements/backgrounds/adventure.png",
+      "sha1": "c96d8cbe83dec466ccf6b2ac4310a36a3dac048f",
+      "size": 245
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/advancements/backgrounds/end.png",
+      "sha1": "17e052b77f5b769fb7202b26f64c04a9da4abcff",
+      "size": 270
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/advancements/backgrounds/husbandry.png",
+      "sha1": "18075e41cf3850eb4eb1c904479ddc9e87a4c315",
+      "size": 243
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/advancements/backgrounds/nether.png",
+      "sha1": "3557a06a2f832d309071edae5d2a1be5ab6d88d7",
+      "size": 286
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/advancements/backgrounds/stone.png",
+      "sha1": "c65ec807fd64bfa8610bea4dfee93c206bac0271",
+      "size": 215
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/advancements/tabs.png",
+      "sha1": "682217a76226ead37ba63df414132f83cf964667",
+      "size": 1467
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/advancements/widgets.png",
+      "sha1": "c43afa9a3d2d94ce87e6922a4164b1928af61efd",
+      "size": 1506
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/advancements/window.png",
+      "sha1": "75483fe6229fba76dda1baed1a87f48f0816afb2",
+      "size": 1424
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/bars.png",
+      "sha1": "a2341bf6b2b1a3293eabea0af26c355f8d074c09",
+      "size": 25177
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/book.png",
+      "sha1": "ca92c09c1bc7fe752c905e5461530fba25f82c14",
+      "size": 7914
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/chat_tags.png",
+      "sha1": "655e4ccc74d1e7e4e738ec1f3f0f966656706ef4",
+      "size": 180
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/checkbox.png",
+      "sha1": "154318e8d2635c7e1b9eee13b982c9ba18c69c61",
+      "size": 668
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/checkmark.png",
+      "sha1": "717a97fe8a4be530d0fce1d12383e9a146191ab5",
+      "size": 145
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/anvil.png",
+      "sha1": "2b080bacd05c36a94ba2af01b902bcad46c7f79d",
+      "size": 1670
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/beacon.png",
+      "sha1": "5758dc9dfa2b1b94d552fb25e78732b04c0b280b",
+      "size": 1999
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/blast_furnace.png",
+      "sha1": "8f844781274f5ce53eef8df18ac7433d1b1b240d",
+      "size": 1432
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/brewing_stand.png",
+      "sha1": "fec10cb325828d77eb0475c0e4266c3924a46b16",
+      "size": 2130
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/bundle.png",
+      "sha1": "766107e15ee0ca6eb8333bb9ca7ac01f8841a0c1",
+      "size": 299
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/cartography_table.png",
+      "sha1": "f91a40c306627c84ea13fa74850dd93ebfb2d508",
+      "size": 3145
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/crafting_table.png",
+      "sha1": "c126e4bc9edb5ec875879cd7a317b347049fe27c",
+      "size": 2298
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/creative_inventory/tabs.png",
+      "sha1": "204304a43b47a72cd08b453312b7012d55f31dbd",
+      "size": 867
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png",
+      "sha1": "e4bfe1ced6edc512db713e29d75d009f082c23f9",
+      "size": 1125
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png",
+      "sha1": "6b45ed24a493f67168dcc409bc814bcdfa609efb",
+      "size": 965
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png",
+      "sha1": "d3ba82feb271ed09b88d5002b183cb31ae80c204",
+      "size": 1005
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/dispenser.png",
+      "sha1": "a60b8ca599c305d7da5604a7e2dee62b038e17d0",
+      "size": 1539
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/enchanting_table.png",
+      "sha1": "f795c49fae1f7ba49ee6836c1c5e21bbe89ace64",
+      "size": 2318
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/furnace.png",
+      "sha1": "8f844781274f5ce53eef8df18ac7433d1b1b240d",
+      "size": 1432
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/gamemode_switcher.png",
+      "sha1": "09069c5291db9c439f44674ef9a3ccd833a7747c",
+      "size": 1868
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/generic_54.png",
+      "sha1": "f84b538d7a7233059bd05ba23eebc355bcceecf9",
+      "size": 1060
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/grindstone.png",
+      "sha1": "a7ced260f07a0355f9febacc717eea3df4882dd6",
+      "size": 774
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/hopper.png",
+      "sha1": "112e02ea174ec669dc8fa36a5e84fe956fbc4d6e",
+      "size": 1164
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/horse.png",
+      "sha1": "0b3d04cb83c9c751e3c7fde2fade700c73a53935",
+      "size": 1273
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/inventory.png",
+      "sha1": "c580370395d562cc73a35a3c73efface3c654614",
+      "size": 2195
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/legacy_smithing.png",
+      "sha1": "b13b0cad3e93def7b4bc27e886b84358f07c3e64",
+      "size": 1893
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/loom.png",
+      "sha1": "b3c770e818efa9c043f88d091a244690c4f32a48",
+      "size": 1836
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/shulker_box.png",
+      "sha1": "fa519dc408b78b88f1cd3796f8fb0f1827dec2d8",
+      "size": 920
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/smithing.png",
+      "sha1": "1e4ecd7d2cfe97f39eaa133871c868328fcd63f5",
+      "size": 1533
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/smoker.png",
+      "sha1": "8f844781274f5ce53eef8df18ac7433d1b1b240d",
+      "size": 1432
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/stats_icons.png",
+      "sha1": "66463fa6664396f7057548d6aeb862081023a599",
+      "size": 1227
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/stonecutter.png",
+      "sha1": "876d1271e6934749a2ba124b8e6d3ff918fa5dc6",
+      "size": 1432
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/container/villager2.png",
+      "sha1": "8956aab6d20415d97f3c3832124986ffce6f4c89",
+      "size": 3010
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/demo_background.png",
+      "sha1": "5129e3fa8639d83b0f218b5196cf1eebd1fa813a",
+      "size": 632
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/footer_separator.png",
+      "sha1": "e0264889a6b9818e093c0e10a1c502878bf5d2b6",
+      "size": 118
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/hanging_signs/acacia.png",
+      "sha1": "de4977005fac7dd429021776ed626b42cc28844f",
+      "size": 280
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/hanging_signs/bamboo.png",
+      "sha1": "6b69dfb19d25b250ca3079c087ca1199475c25f9",
+      "size": 292
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/hanging_signs/birch.png",
+      "sha1": "315fea958608862a1701e1af596de38f67aa7e9f",
+      "size": 299
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/hanging_signs/cherry.png",
+      "sha1": "a51cbe922dc692adbe2acfcc6bfb1f19f0a8748f",
+      "size": 262
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/hanging_signs/crimson.png",
+      "sha1": "f66838714075f48a9e582cad7e163469b4a85452",
+      "size": 285
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/hanging_signs/dark_oak.png",
+      "sha1": "3dad8477e6fb4e165fb964dba3bf6dda8856a6be",
+      "size": 283
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/hanging_signs/jungle.png",
+      "sha1": "1333548f16936b3976d5abf6e5282888198f771c",
+      "size": 283
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/hanging_signs/mangrove.png",
+      "sha1": "334916cd301e294c4a29622063c7d526be195e0f",
+      "size": 257
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/hanging_signs/oak.png",
+      "sha1": "db0226cf71d3a380309f87572748b7236bcca15e",
+      "size": 282
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/hanging_signs/spruce.png",
+      "sha1": "fc6fecda4699e6371cef23e9e9a92c1ef2355933",
+      "size": 278
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/hanging_signs/warped.png",
+      "sha1": "8fe14b1ab1117989b9a9e7b7873afc3c6b0806eb",
+      "size": 294
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/header_separator.png",
+      "sha1": "fb6fd4de62811d73bb2e870e99def032241d7271",
+      "size": 139
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/icons.png",
+      "sha1": "f5ce5907603d889bf06bc001a8a2f42036ca6bda",
+      "size": 10685
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/info_icon.png",
+      "sha1": "ab961d4287c4277580affdd96a0519cbb7bc39bd",
+      "size": 130
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/light_dirt_background.png",
+      "sha1": "c08d12033735cff38f0ee99e94312d8b81e58daa",
+      "size": 264
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/options_background.png",
+      "sha1": "75ca5e16a3d42e4fd1ea216d05f3646cec111b80",
+      "size": 266
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/presets/isles.png",
+      "sha1": "63e841d0c38a8d8735a6f3b3b4101fe7a8d5074c",
+      "size": 92798
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/recipe_book.png",
+      "sha1": "da0d54bd04a14bc6bcf97a37fc770ffd5333ab13",
+      "size": 2091
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/recipe_button.png",
+      "sha1": "ced4017742e7380156000b635579dda4c5ecd3d8",
+      "size": 755
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/report_button.png",
+      "sha1": "33cf74ff71a8b9fa9029a33e3c42435ca5043d8b",
+      "size": 896
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/resource_packs.png",
+      "sha1": "927b85fd6423b086a8811fe4f6a8f3e085088841",
+      "size": 759
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/server_selection.png",
+      "sha1": "b310cbc9ce8658923fc0ae101a5e621b7010a67b",
+      "size": 1444
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/slider.png",
+      "sha1": "ada63f5fcab5f5556674ed2de398edc3b2bcdae0",
+      "size": 6383
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/social_interactions.png",
+      "sha1": "8a252108d75d64aef1c3d03b67ea6c82d07503ad",
+      "size": 1925
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/spectator_widgets.png",
+      "sha1": "231a54ffb7998279885a6d98f072971e5d0c82a6",
+      "size": 1178
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/stream_indicator.png",
+      "sha1": "80ffe1a4c8e1ec3b8599541bad1540cd84cb15af",
+      "size": 642
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/tab_button.png",
+      "sha1": "a3266f473e9a1c0543c5b60dfe66092194cf6ac1",
+      "size": 946
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/title/background/panorama_0.png",
+      "sha1": "c714ca5481ef89c1dbb98b5ab11a396920adcbfa",
+      "size": 85
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/title/background/panorama_1.png",
+      "sha1": "c714ca5481ef89c1dbb98b5ab11a396920adcbfa",
+      "size": 85
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/title/background/panorama_2.png",
+      "sha1": "c714ca5481ef89c1dbb98b5ab11a396920adcbfa",
+      "size": 85
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/title/background/panorama_3.png",
+      "sha1": "c714ca5481ef89c1dbb98b5ab11a396920adcbfa",
+      "size": 85
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/title/background/panorama_4.png",
+      "sha1": "c714ca5481ef89c1dbb98b5ab11a396920adcbfa",
+      "size": 85
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/title/background/panorama_5.png",
+      "sha1": "c714ca5481ef89c1dbb98b5ab11a396920adcbfa",
+      "size": 85
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/title/background/panorama_overlay.png",
+      "sha1": "9dd32387135eefa7ab95996d52a5ca4cec8a3b30",
+      "size": 86
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/title/edition.png",
+      "sha1": "38eb66b96865104db0b192ed3dad25fd21f25476",
+      "size": 11260
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/title/edition.png.mcmeta",
+      "sha1": "809dfb6d0f7b76b31459eb734827089680a44090",
+      "size": 40
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/title/minceraft.png",
+      "sha1": "57f362fc35c8518beab53f8ead00eae9f6f0fce2",
+      "size": 45119
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/title/minceraft.png.mcmeta",
+      "sha1": "809dfb6d0f7b76b31459eb734827089680a44090",
+      "size": 40
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/title/minecraft.png",
+      "sha1": "ba69edd7bec2437dd3c6c30f9fdde21165e66e6a",
+      "size": 36331
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/title/minecraft.png.mcmeta",
+      "sha1": "809dfb6d0f7b76b31459eb734827089680a44090",
+      "size": 40
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/title/mojangstudios.png",
+      "sha1": "0669207ff6b3119dbee6e8d093aeb87487f09e2c",
+      "size": 11788
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/toasts.png",
+      "sha1": "1bb139d0395b7f4ef1c4e39f8149aea79c4d3cd9",
+      "size": 2342
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/unseen_notification.png",
+      "sha1": "cff55488452bd277c92002ad01c4660219dd0ad6",
+      "size": 94
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/widgets.png",
+      "sha1": "2c473a75c5b3bd8c02fd28ac54476ec1812e6b64",
+      "size": 13909
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/gui/world_selection.png",
+      "sha1": "7cc80f189065599e58063dd30411f541a38ced40",
+      "size": 1131
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/item/1.png",
+      "sha1": "7740c03a494e00d9d4085f8eef7849bc3b1cf659",
+      "size": 416
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/item/2.png",
+      "sha1": "16fa98e770eabd6676b521d9ec7dc4b5525cdf28",
+      "size": 546
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/item/3.png",
+      "sha1": "d2fb1d40933d0023cb61ed7a56bed9e750a96794",
+      "size": 344
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/item/4.png",
+      "sha1": "fb19b22ff887e3682b7170d78ae5a8e12be27eb8",
+      "size": 598
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/item/5.png",
+      "sha1": "dd5943e7e9df75703f5e90fc8ed0623da5a8ab33",
+      "size": 391
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/item/6.png",
+      "sha1": "4670894184f205432ade2587b50f5a5bd491dad3",
+      "size": 1526
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/item/back_arrow.png",
+      "sha1": "7a50d56e7ebfc2c63c7b03a7e75fa6d71539a48a",
+      "size": 239
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/item/custom_textures/cuchara.png",
+      "sha1": "0aec151c36e80b88e004e3f5a32b8e9fc4b18b94",
+      "size": 473
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/item/menu_inventory.png",
+      "sha1": "5255d7562184ff2aa20c650e87e42c628e52b0dd",
+      "size": 993
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/item/menu_revivir.png",
+      "sha1": "f2ce298469d943984085d8e2f02333195fcc360c",
+      "size": 102132
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/item/menu_revivir2.png",
+      "sha1": "f088d030bd6345f677efb1c91b13231e01e8ce80",
+      "size": 79829
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/item/nether_star.png",
+      "sha1": "070b314d5c68b0459a44e32c0759013f41802724",
+      "size": 535
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/item/revivir_btn.png",
+      "sha1": "a320dede6765f3401531a4895d35183120831fe2",
+      "size": 313
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/item/steve.png",
+      "sha1": "6181dcc8431f2f6367e513188b5decdc5c81ae51",
+      "size": 124
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/misc/pumpkinblur.png",
+      "sha1": "4670894184f205432ade2587b50f5a5bd491dad3",
+      "size": 1526
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/mob_effect/luck.png",
+      "sha1": "db88544fb1a05b1bc061a74abb7dafb090152ed5",
+      "size": 230
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/mob_effect/unluck.png",
+      "sha1": "98547537c62e3ff7543cfbb3a6711b4965ee80a3",
+      "size": 337
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/arbol_tecnologia_title.png",
+      "sha1": "cd5a644e9d279dbe8c7daebcb6863d54368f9954",
+      "size": 243486
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/botas infernales.png",
+      "sha1": "5e9fc4b1012e533b1e87e38786e3dd03337efcdd",
+      "size": 28279
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/cambio_dificultad_title.png",
+      "sha1": "e4f1417d94a74156c57db649dd70d2d04d8dbe16",
+      "size": 123308
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/casco infernal.png",
+      "sha1": "4f667b8a1b0ec084d30ed283dbbaf0e9d736e54b",
+      "size": 28159
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/cuerno.png",
+      "sha1": "7e704ad64e303ff0564413b9611b640be81c461c",
+      "size": 261801
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/dedita_a.png",
+      "sha1": "19471046455ed3d5cf6fae6c64a2a045e46dc9f5",
+      "size": 2952
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/dedita_c.png",
+      "sha1": "cc5b4d384911a05543a76468bcf7a046d4abfa02",
+      "size": 2833
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/dedita_m.png",
+      "sha1": "7803efcfc01dc46806aef8f8a19f57bc7a07affc",
+      "size": 3417
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/dedita_n.png",
+      "sha1": "c772eeaab77c8c94b32e687242bbfe93aeb63893",
+      "size": 3188
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/derecha.png",
+      "sha1": "fd7bd4938877d04fbc2ef95f2dcc242d3e156167",
+      "size": 305
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/diarias.png",
+      "sha1": "4a86f2416c8adaf3e299cdc818b1787cc1946ea1",
+      "size": 1598317
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/entidades_enciclopedia.png",
+      "sha1": "36479968e54bfbfa4b29549a86ddbaf3ea96f15c",
+      "size": 56560
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/espada_inanimada.png",
+      "sha1": "d938a44e5c446956398e501d0e1d534ed36ecbbf",
+      "size": 4414
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/informacion.png",
+      "sha1": "dbc62c4231b56ef34673dfc57d2e38c08b1a36fa",
+      "size": 238
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/izquierda.png",
+      "sha1": "115242d422a56b58f03ef25d3f4aae67e4f39d4f",
+      "size": 298
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/libro_dedciclopedia.png",
+      "sha1": "9f73a14210b85d32d2963a1ef046b4b4d8720599",
+      "size": 911
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/libro_dificultad.png",
+      "sha1": "9b2f193c9bec7ec4387bb899fec3a18374af16fa",
+      "size": 1205
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/libro_misiones.png",
+      "sha1": "729b86ae638ec2c00874e906cceea6d6bdb51ff4",
+      "size": 846
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/libro_notificaciones.png",
+      "sha1": "3be64a008de4665c0baeec2e5344e5654fdc2132",
+      "size": 932
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/libro_tecnologico.png",
+      "sha1": "dd5093f47ebb98c9fa716b33dec5df42e5773da1",
+      "size": 1033
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/lingote.png",
+      "sha1": "17d82b1d0882490c5ee2605a8e29203fc6fdb1b1",
+      "size": 138438
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/metal_recocido.png",
+      "sha1": "356c55a0ed924be8d17292128aebacffa9536262",
+      "size": 16701
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/pantalon infernal.png",
+      "sha1": "364bd157d9448514706687051b827f3fd6443114",
+      "size": 27658
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/pechera infernal.png",
+      "sha1": "ffd144bc90cb10b7283adcfc896214cb21fca7e0",
+      "size": 30654
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/pepita.png",
+      "sha1": "947cbead3a266e0143f871ce62ddb424789be2ba",
+      "size": 291448
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/ruletaaa.png",
+      "sha1": "45c6443ca4083ff8faabec4a461c224001b899ea",
+      "size": 640
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/scrap.png",
+      "sha1": "64b481ae33b1f546d72fd93b5286cf9f1efbef9e",
+      "size": 16467
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/secundarias.png",
+      "sha1": "cf9a4f171ff49ce4deedf63c8c9c4c7550638065",
+      "size": 1347561
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/tarjeta.png",
+      "sha1": "2fbff9496c874fe668ca30947cf7eeff87074c34",
+      "size": 635
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/tarjeta_bloqueada.png",
+      "sha1": "aac128f366c53b9ce33350d410103926017231e7",
+      "size": 1492
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/minecraft/textures/sb/textuddsre.png",
+      "sha1": "3b548f5c565dd74abad9df16970689a64e3aad76",
+      "size": 1583
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/assets/plasmovoice/textures/icons/speaker.png",
+      "sha1": "a56c027763e0f21ca3895566b2b97d2489b25f16",
+      "size": 289
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/pack.mcmeta",
+      "sha1": "c3bb0bf0f34b5d073700cebab715658e72a19c3f",
+      "size": 100
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Elephant Creators/pack.png",
+      "sha1": "8df7d510a28ff6c2d7297184804f2d7e1b7feb03",
+      "size": 116751
+    },
+    {
+      "path": "resourcepacks/Chafasafio 3 - Resorces.zip",
+      "sha1": "d00d2c5f5468ed0791a28c657bdd00657ca8a719",
+      "size": 42498034
+    }
+  ]
+}

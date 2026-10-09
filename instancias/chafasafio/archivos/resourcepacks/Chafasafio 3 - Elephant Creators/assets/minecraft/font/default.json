@@ -1,0 +1,186 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/black_overlay.png",
+            "ascent": 1000,
+            "height": 2000,
+            "chars": ["\u3400"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/light_screen.png",
+            "ascent": 1000,
+            "height": 2000,
+            "chars": ["\u3401"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/flitro_screen.png",
+            "ascent": 1000,
+            "height": 2000,
+            "chars": ["\u3402"]
+        },
+        {
+	    "type": "bitmap",
+            "file": "minecraft:custom/apagada.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["だ"]
+        },
+        { 
+	    "type": "bitmap",
+            "file": "minecraft:custom/encendida.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["た"]
+        },
+        {
+        "type": "bitmap",
+            "file": "minecraft:custom/media_amarilla.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["ぁ"]
+        },
+        {
+        "type": "bitmap",
+            "file": "minecraft:custom/media_azul.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["あ"]
+        },
+        {
+        "type": "bitmap",
+            "file": "minecraft:custom/media_celeste.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["ぃ"]
+        },
+        {
+        "type": "bitmap",
+            "file": "minecraft:custom/media_fuxia.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["い"]
+        },
+        {
+        "type": "bitmap",
+            "file": "minecraft:custom/media_morada.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["ぅ"]
+        },
+        {
+        "type": "bitmap",
+            "file": "minecraft:custom/media_naranja.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["う"]
+        },
+        {
+        "type": "bitmap",
+            "file": "minecraft:custom/media_roja.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["ぇ"]
+        },
+        {
+        "type": "bitmap",
+            "file": "minecraft:custom/media_verde.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["ぉ"]
+        },
+        {
+        "type": "bitmap",
+            "file": "minecraft:custom/volty.png",
+            "ascent": 70,
+            "height": 170,
+            "chars": ["ク"]
+        },
+        {
+        "type": "bitmap",
+            "file": "minecraft:custom/dednegro.png",
+            "ascent": 55,
+            "height": 70,
+            "chars": ["㍿"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/bar0.png",
+            "ascent": 120,
+            "height": 130,
+            "chars": ["杰"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/bar1.png",
+            "ascent": 140,
+            "height": 150,
+            "chars": ["哦"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/scoreboard.png",
+            "ascent": 50,
+            "height": 50,
+            "chars": ["゜"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/air.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["゠"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/nutria.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": ["ギ"]
+        },
+		{
+			"type": "bitmap",
+			"file": "minecraft:sb/dedita_a.png",
+			"ascent": 9,
+			"height": 22,
+			"chars": ["🔵"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:sb/dedita_c.png",
+			"ascent": 9,
+			"height": 12,
+			"chars": ["🟣"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:sb/dedita_m.png",
+			"ascent": 9,
+			"height": 12,
+			"chars": ["🔘"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:sb/dedita_n.png",
+			"ascent": 9,
+			"height": 12,
+			"chars": ["🟠"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:sb/espada_inanimada.png",
+			"ascent": 7	,
+			"height": 100,
+			"chars": ["🗡️"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:sb/metal_recocido.png",
+			"ascent": 7	,
+			"height": 100,
+			"chars": ["🦾"]
+		}
+    ]
+}

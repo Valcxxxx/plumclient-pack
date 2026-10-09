@@ -1,0 +1,165 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"texture": "ilusioner.png",
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0.475],
+			"boxes": [
+				{"coordinates": [-4, 24, -3.475, 8, 10, 7], "textureOffset": [1, 1]}
+			]
+		},
+		{
+			"part": "nose",
+			"id": "nose",
+			"invertAxis": "xy",
+			"translate": [0, -26, 0],
+			"boxes": [
+				{"coordinates": [-1, 23, -5, 2, 4, 2], "textureOffset": [24, 0]}
+			]
+		},
+		{
+			"part": "hat",
+			"id": "hat",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{
+					"coordinates": [-4, 23, -4, 8, 11, 8],
+					"uvNorth": [40, 8, 48, 19],
+					"uvEast": [32, 8, 40, 19],
+					"uvSouth": [56, 8, 64, 19],
+					"uvWest": [48, 8, 56, 19],
+					"uvUp": [48, 8, 40, 0],
+					"uvDown": [53, 4, 49, 8],
+					"sizeAdd": 0.45
+				}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-4, 12, -3, 8, 12, 6], "textureOffset": [16, 20]},
+				{
+					"coordinates": [-4, 4, -3, 8, 20, 6],
+					"uvNorth": [6, 44.4, 14, 64],
+					"uvEast": [0, 44, 6, 64],
+					"uvSouth": [20, 44, 28, 64],
+					"uvWest": [14, 44, 20, 64],
+					"uvUp": [9, 42, 9, 42],
+					"uvDown": [22, 38, 14, 43],
+					"sizeAdd": 0.559
+				},
+				{
+					"coordinates": [-4, 24.175, -3, 8, 0, 6],
+					"uvNorth": [55.5, 7, 63.5, 6],
+					"uvEast": [56, 1, 48.8, 0],
+					"uvSouth": [56, 6, 64, 5],
+					"uvWest": [56.8, 5, 64, 4],
+					"uvUp": [55, 3.2, 50, 1.99],
+					"uvDown": [52, 5, 50, 4],
+					"sizeAdd": 0.56
+				},
+				{
+					"coordinates": [-4, 23.175, -3, 8, 1, -1],
+					"uvNorth": [55.5, 7, 63.5, 6],
+					"uvEast": [64, 5, 62.8, 4],
+					"uvSouth": [56, 6, 64, 5],
+					"uvWest": [59.8, 5, 64, 4],
+					"uvUp": [39.5, 1.01, 31.5, 0],
+					"uvDown": [64, 0, 59, 3],
+					"sizeAdd": 0.56
+				},
+				{
+					"coordinates": [-1.5, 10.4, -3, 3, 3, 4],
+					"uvNorth": [23, 39, 27, 43],
+					"uvEast": [14, 40, 18, 43],
+					"uvSouth": [11, 61, 14, 64],
+					"uvWest": [15, 40, 19, 43],
+					"uvUp": [19, 42, 16, 38],
+					"uvDown": [19, 38, 16, 42],
+					"sizeAdd": 0.75
+				}
+			]
+		},
+		{
+			"part": "arms",
+			"id": "arms",
+			"invertAxis": "xy",
+			"translate": [0, -21.05, 1.05],
+			"rotate": [43, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-4, 15.05, -3.05, 8, 4, 4],
+					"uvNorth": [44, 42, 52, 46],
+					"uvEast": [40, 42, 44, 46],
+					"uvSouth": [56, 42, 64, 46],
+					"uvWest": [52, 42, 56, 46],
+					"uvUp": [52, 42, 44, 38],
+					"uvDown": [60, 38, 52, 42]
+				},
+				{"coordinates": [4, 15.05, -3.05, 4, 8, 4], "textureOffset": [44, 22]}
+			],
+			"submodels": [
+				{
+					"id": "mirrored",
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-8, 15.05, -3.05, 4, 8, 4], "textureOffset": [44, 22]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [5, -22, 0],
+			"boxes": [
+				{"coordinates": [-8.5, 12, -2, 4, 12, 4], "textureOffset": [40, 46]}
+			]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [-5, -22, 0],
+			"boxes": [
+				{"coordinates": [4.5, 12, -2, 4, 12, 4], "textureOffset": [40, 46]}
+			]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [2, -12, 0],
+			"boxes": [
+				{"coordinates": [-4, 0, -2, 4, 12, 4], "textureOffset": [0, 22]}
+			]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-2, -12, 0],
+			"boxes": [
+				{"coordinates": [0, 0, -2, 4, 12, 4], "textureOffset": [0, 22]}
+			]
+		}
+	]
+}
