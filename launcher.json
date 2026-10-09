@@ -15,7 +15,7 @@
   "instancias": [
     {
       "id": "halloween-event",
-      "nombre": "Evento de ejemplo",
+      "nombre": "Halloween Event",
       "descripcion": "Una instancia de prueba con Fabric. Cambia este texto, la imagen y los mods para tu primer evento.",
       "imagen": "instancias/halloween-event/portada.png",
       "minecraft": "1.21.1",
