@@ -11,7 +11,7 @@
       "url": "https://x.com/Valcxxx__"
     }
   ],
-  "generado": "2026-10-09T18:20:02.538Z",
+  "generado": "2026-10-09T18:29:06.104Z",
   "instancias": [
     {
       "id": "squids",
@@ -32,17 +32,7 @@
       "protegido": true,
       "keySalt": "595774808431a3d4bd5f6f705f3a5e44",
       "borrarAlCerrar": true,
-      "whitelistSalt": "d19fe2d291fedcc363f6fa7718dd2cde",
-      "whitelist": [
-        "16747e306ac29fb2a9a908530c312d55458ffb650872893941e968135029245e",
-        "9eb0b9fa7214eaff619903e570cbd6092dbd92da84c818abc0ce9b100cea857e",
-        "cc8a9e80baf992269cbb6e47cafd96b66baac92291fc2b0dbac5f672acb75f0c",
-        "789bbfb56c4b730cd515c9865e3cc04ad2a439862512076ee3ce425c44d1203d",
-        "32e54cdbf8ce3d80e0973ff1753007bb695885fed9f78de1f6b7a7a30891480b",
-        "ee3cc5c5602156ddd17027c4d6b3f8135636f25d2e766f0b16a55e827f0a269a",
-        "ad976a69e2596e94c6119b56414b73ce75518b515c4932462a0ead9648b777c7"
-      ],
-      "visibleSoloWhitelist": true,
+      "whitelist": [],
       "bloqueada": true,
       "passSalt": "94236d200c7d55ad31e898e4734ce0ba",
       "hash": "3941f026f1cd731130c134b7a58889a0a9b8c4583027366121cd2f94c8ec45c3"
