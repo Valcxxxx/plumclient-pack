@@ -11,7 +11,7 @@
     {
       "id": "evento-ejemplo",
       "nombre": "Evento de ejemplo",
-      "descripcion": "Una instancia de prueba con Fabric. Cambia este texto, la imagen y los mods para tu primer evento.",
+      "descripcion": "Instancia de prueba, despues la organizo",
       "imagen": "instancias/evento-ejemplo/portada.png",
       "minecraft": "1.21.1",
       "loader": "fabric",
