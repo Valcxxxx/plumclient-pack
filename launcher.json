@@ -11,7 +11,7 @@
       "url": "https://x.com/Valcxxx__"
     }
   ],
-  "generado": "2026-10-09T16:09:34.713Z",
+  "generado": "2026-10-09T17:52:11.966Z",
   "instancias": [
     {
       "id": "squids",
@@ -35,7 +35,9 @@
       "whitelistSalt": "d19fe2d291fedcc363f6fa7718dd2cde",
       "whitelist": [
         "16747e306ac29fb2a9a908530c312d55458ffb650872893941e968135029245e",
-        "9eb0b9fa7214eaff619903e570cbd6092dbd92da84c818abc0ce9b100cea857e"
+        "9eb0b9fa7214eaff619903e570cbd6092dbd92da84c818abc0ce9b100cea857e",
+        "cc8a9e80baf992269cbb6e47cafd96b66baac92291fc2b0dbac5f672acb75f0c",
+        "789bbfb56c4b730cd515c9865e3cc04ad2a439862512076ee3ce425c44d1203d"
       ],
       "visibleSoloWhitelist": true,
       "bloqueada": true,
