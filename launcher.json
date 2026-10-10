@@ -11,7 +11,7 @@
       "url": "https://x.com/Valcxxx__"
     }
   ],
-  "generado": "2026-10-10T00:16:02.377Z",
+  "generado": "2026-10-10T00:37:45.320Z",
   "instancias": [
     {
       "id": "squids",
@@ -57,8 +57,10 @@
       "soloPremium": false,
       "ramMinima": 4096,
       "mods": 57,
-      "manifest": "instancias/chafasafio/manifest.json",
-      "protegido": false,
+      "manifest": "instancias/chafasafio/manifest.enc",
+      "protegido": true,
+      "keySalt": "83b5f22aa377ab829fa2616adcc66935",
+      "borrarAlCerrar": true,
       "whitelistSalt": "bd2339b1381428e342dcd2ad87fbcaf6",
       "whitelist": [
         "5248c8507646ea822e693eab394e9d5fa11fcbd69a15f439bef7c758e0f82f2a",
