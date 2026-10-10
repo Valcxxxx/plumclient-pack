@@ -11,7 +11,7 @@
       "url": "https://x.com/Valcxxx__"
     }
   ],
-  "generado": "2026-10-10T00:09:29.724Z",
+  "generado": "2026-10-10T00:12:06.179Z",
   "instancias": [
     {
       "id": "squids",
@@ -56,7 +56,7 @@
       "oculto": false,
       "soloPremium": false,
       "ramMinima": 4096,
-      "mods": 67,
+      "mods": 57,
       "manifest": "instancias/chafasafio/manifest.json",
       "protegido": false,
       "whitelistSalt": "bd2339b1381428e342dcd2ad87fbcaf6",

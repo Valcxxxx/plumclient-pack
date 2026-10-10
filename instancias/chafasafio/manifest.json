@@ -1096,11 +1096,6 @@
       "url": "https://cdn.modrinth.com/data/yWwOsHyX/versions/IvbeVBCJ/bbs_extended_sync-1.0.0-1.20.1.jar"
     },
     {
-      "path": "mods/chafa_utilities-1.0.0 (10).jar",
-      "sha1": "8142e868679c383312618f9a71418292a970aea3",
-      "size": 18203846
-    },
-    {
       "path": "mods/chafa_utilities-1.0.0.jar",
       "sha1": "8142e868679c383312618f9a71418292a970aea3",
       "size": 18203846
@@ -1152,22 +1147,10 @@
       "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/EjdIWWqG/dynamic-fps-3.11.4%2Bminecraft-1.20.0-forge.jar"
     },
     {
-      "path": "mods/dynamic-fps-3.7.7+minecraft-1.20.0-forge.jar",
-      "sha1": "b11e38d9a3fdd40ceb962b51d9b782e1e4f5664c",
-      "size": 342609,
-      "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/RWJOhJC6/dynamic-fps-3.7.7%2Bminecraft-1.20.0-forge.jar"
-    },
-    {
       "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
       "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
       "size": 1320675,
       "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar"
-    },
-    {
-      "path": "mods/embeddiumplus-1.20.1-v1.2.13.jar",
-      "sha1": "d922515ae0f16af2afdddfd72243a4890a2c7ad8",
-      "size": 895427,
-      "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/KEd4eJfk/embeddiumplus-1.20.1-v1.2.13.jar"
     },
     {
       "path": "mods/entity_model_features-3.3.11-1.20.1-forge.jar",
@@ -1176,22 +1159,10 @@
       "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/6RQ5C1J6/entity_model_features-3.3.11-1.20.1-forge.jar"
     },
     {
-      "path": "mods/entity_model_features_forge_1.20.1-2.2.6.jar",
-      "sha1": "f71c3fa60bb7dc5999965d951569e4db8d23c694",
-      "size": 432658,
-      "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/SwaXdYpi/entity_model_features_forge_1.20.1-2.2.6.jar"
-    },
-    {
       "path": "mods/entity_texture_features-7.2.5-1.20.1-forge.jar",
       "sha1": "90d2eb37c8572bc39246b938d3610d30afe7e509",
       "size": 999301,
       "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/VkWikkyj/entity_texture_features-7.2.5-1.20.1-forge.jar"
-    },
-    {
-      "path": "mods/entity_texture_features_forge_1.20.1-6.2.8.jar",
-      "sha1": "5e9e497952bc84dc7d3ab32572adf2739c868c1f",
-      "size": 673188,
-      "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/515ZJGh4/entity_texture_features_forge_1.20.1-6.2.8.jar"
     },
     {
       "path": "mods/explosiveenhancement-1.2.0.jar",
@@ -1200,22 +1171,10 @@
       "url": "https://cdn.modrinth.com/data/r0camchr/versions/UkoG8ZFw/explosiveenhancement-1.2.0.jar"
     },
     {
-      "path": "mods/explosiveenhancement-forge-1.20.1-1.1.0-client.jar",
-      "sha1": "fcea37ff4cbd3302e0f1976264c98c8e874d713b",
-      "size": 85868,
-      "url": "https://cdn.modrinth.com/data/r0camchr/versions/WZmrfQAK/explosiveenhancement-forge-1.20.1-1.1.0-client.jar"
-    },
-    {
       "path": "mods/fabric-api-0.92.6+1.11.14+1.20.1.jar",
       "sha1": "285c22b2567b9fdf98ef9808eceb5557de9611d3",
       "size": 3065813,
       "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/XweDEycJ/fabric-api-0.92.6%2B1.11.14%2B1.20.1.jar"
-    },
-    {
-      "path": "mods/fancymenu_forge_3.8.1_MC_1.20.1.jar",
-      "sha1": "1fef1d8ab0dc2dec116bc6d6cb6f789fd33b23b0",
-      "size": 4472193,
-      "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/MywA2BxT/fancymenu_forge_3.8.1_MC_1.20.1.jar"
     },
     {
       "path": "mods/fancymenu_forge_3.9.14_MC_1.20.1.jar",
@@ -1230,12 +1189,6 @@
       "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/AqaB0PbS/fast-ip-ping-v1.0.12-mc1.20.4-forge.jar"
     },
     {
-      "path": "mods/fast-ip-ping-v1.0.5-mc1.20.4-forge.jar",
-      "sha1": "cba9a0f2b37706ae0486e74636049545580892fd",
-      "size": 10557,
-      "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/lfk0K3KM/fast-ip-ping-v1.0.5-mc1.20.4-forge.jar"
-    },
-    {
       "path": "mods/Fastload-Reforged-mc1.20.1-3.4.0.jar",
       "sha1": "27d58f123951e0404c94caf16ff9b96b442f371c",
       "size": 66989,
@@ -1246,12 +1199,6 @@
       "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
       "size": 123034,
       "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar"
-    },
-    {
-      "path": "mods/FpsReducer2-forge-1.20-2.5.jar",
-      "sha1": "d7d5af20faa2bd7012aa2d34b5804324aa273092",
-      "size": 125347,
-      "url": "https://cdn.modrinth.com/data/iZ10HXDj/versions/XP4qT1Vo/FpsReducer2-forge-1.20-2.5.jar"
     },
     {
       "path": "mods/FpsReducer2-forge-1.20.1-2.5.1.jar",
@@ -1301,12 +1248,6 @@
       "sha1": "d551ff55814cfb01403b812459ee5a02b020d87b",
       "size": 134551,
       "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/BQ8rJPXV/Iceberg-1.20.1-forge-1.1.25.jar"
-    },
-    {
-      "path": "mods/ImmediatelyFast-Forge-1.3.3+1.20.4.jar",
-      "sha1": "f3a9a180b6cb062bc6604fe2ec27e11b38c990e5",
-      "size": 449097,
-      "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/abfWjwdT/ImmediatelyFast-Forge-1.3.3%2B1.20.4.jar"
     },
     {
       "path": "mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
@@ -3668,11 +3609,6 @@
       "path": "resourcepacks/Chafasafio 3 - Elephant Creators/pack.png",
       "sha1": "8df7d510a28ff6c2d7297184804f2d7e1b7feb03",
       "size": 116751
-    },
-    {
-      "path": "resourcepacks/Chafasafio 3 - Resorces.zip",
-      "sha1": "d00d2c5f5468ed0791a28c657bdd00657ca8a719",
-      "size": 42498034
     }
   ]
 }
