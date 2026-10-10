@@ -18,7 +18,7 @@
       "texto": "¡Bienvenido, agradecemos muchos que estes usando el client!"
     }
   ],
-  "generado": "2026-10-10T07:57:02.980Z",
+  "generado": "2026-10-10T17:21:31.613Z",
   "instancias": [
     {
       "id": "squids",
@@ -86,7 +86,13 @@
         "e497ae779f0191935538bef11757ab1592ce755df5d6b2c398871210db765c28",
         "f85173c531e4dace83fccbb19b2c6dd41259ceec66dc86cc15ebd5d0e6b7e863",
         "1c8e22a190d471ce918d7f3d5aece53e4b7b127e9dbf6907aa36d859be8aaac7",
-        "96e7067648f3c7129758743a047e86989707968c14e0a00d01fbb4c4366c3464"
+        "96e7067648f3c7129758743a047e86989707968c14e0a00d01fbb4c4366c3464",
+        "0d820793199e6f6f3173a8644199dd8521cbedc2091193f7dcb80ae9f7ecc9cc",
+        "e7143f1ad0ff777f9d6158e436d189da96e063bd45c434247dd53393b68ef767",
+        "3ce9607a0fff0b55c5fc27017c31971a5f518341d766473702e0bd48bca58539",
+        "3a5852036f4639eef50ff6f1a3a612506896cf621a54d311fce5218daaa152ff",
+        "210369bc89a14f33a771da3050517f70eb1bf9e844ae7a58c9ada74ad638afe3",
+        "7ae192e1c0acbc3b377aee7e33552b8e844099ad025d9eaa67d3b9e7614d82af"
       ],
       "visibleSoloWhitelist": true,
       "bloqueada": true,
