@@ -8,10 +8,17 @@
   "redes": [
     {
       "tipo": "x",
-      "url": "https://x.com/Valcxxx__"
+      "url": "https://x.com/Valcxxx"
     }
   ],
-  "generado": "2026-10-10T04:40:52.855Z",
+  "anuncios": [
+    {
+      "titulo": "Nuevo Client",
+      "fecha": "09 oct",
+      "texto": "¡Bienvenido, agradecemos muchos que estes usando el client!"
+    }
+  ],
+  "generado": "2026-10-10T07:57:02.980Z",
   "instancias": [
     {
       "id": "squids",
@@ -24,6 +31,7 @@
       "loaderVersion": "47.4.10",
       "servidor": "172.96.143.37:30134",
       "estado": "cerrado",
+      "fecha": "",
       "oculto": false,
       "soloPremium": false,
       "ramMinima": 4096,
@@ -53,6 +61,7 @@
       "loaderVersion": "47.4.10",
       "servidor": "",
       "estado": "trabajos",
+      "fecha": "",
       "oculto": false,
       "soloPremium": false,
       "ramMinima": 4096,
