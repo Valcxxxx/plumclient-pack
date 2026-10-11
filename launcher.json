@@ -16,9 +16,14 @@
       "titulo": "Nuevo Client",
       "fecha": "09 oct",
       "texto": "¡Bienvenido, agradecemos muchos que estes usando el client!"
+    },
+    {
+      "titulo": "ChafaSafio 3 Betatest!!",
+      "fecha": "11 Oct",
+      "texto": "El dia 11 de octubre tendremos beatatest de rendimiento en ChafaSafio 3!!"
     }
   ],
-  "generado": "2026-10-10T19:07:33.549Z",
+  "generado": "2026-10-11T18:19:26.417Z",
   "instancias": [
     {
       "id": "squids",
@@ -93,12 +98,68 @@
         "3a5852036f4639eef50ff6f1a3a612506896cf621a54d311fce5218daaa152ff",
         "210369bc89a14f33a771da3050517f70eb1bf9e844ae7a58c9ada74ad638afe3",
         "7ae192e1c0acbc3b377aee7e33552b8e844099ad025d9eaa67d3b9e7614d82af",
-        "7003677de3557e65964290cf7fef8131ce5efbe7852e4094f707dbf7ec3ce02c"
+        "7003677de3557e65964290cf7fef8131ce5efbe7852e4094f707dbf7ec3ce02c",
+        "698090be5618ad179c1a492df482e851e99d335afae4b20b183ca655ebace3c1",
+        "8b244538cf529b00b93aaac40e20ca4d1edd3c006dcc25cf39c49a56da4eae49",
+        "479830be712caf696523dc340abc4fdc11026e2cacf507e1dbcccd39d73ad25a"
       ],
       "visibleSoloWhitelist": true,
       "bloqueada": true,
       "passSalt": "c7b8ab3066a3094e5c77613d54189192",
       "hash": "12824060bbf668e5469ce00f5a1e4cde81c54ea8eb1a2b1ff95e4ca34b086640"
+    },
+    {
+      "id": "chafsafio-betsatest",
+      "nombre": "ChafaSafio 3 - Betatest ",
+      "descripcion": "Instancia prueba Proximo evento...",
+      "imagen": "instancias/chafsafio-betsatest/portada.png",
+      "logo": "instancias/chafsafio-betsatest/logo.png",
+      "minecraft": "1.20.1",
+      "loader": "forge",
+      "loaderVersion": "47.4.10",
+      "servidor": "",
+      "estado": "pronto",
+      "fecha": "2026-10-11T14:30:00",
+      "oculto": false,
+      "soloPremium": false,
+      "ramMinima": 4096,
+      "mods": 57,
+      "manifest": "instancias/chafsafio-betsatest/manifest.enc",
+      "protegido": true,
+      "keySalt": "d4874eda34d52d3a87da485392044b6d",
+      "borrarAlCerrar": true,
+      "whitelistSalt": "0c1a12d380412caa7de7263688e7da75",
+      "whitelist": [
+        "a230575bfb674cef417c6428063d69baba5133d114ca7cee74846ead259b1959",
+        "2e6225e1c38771f125478c779ae4e5f4710f80c8063c263667dbdf36eb427a63",
+        "f6389a0a230d2fcc09cca46949e80b5735625a4e410dca89b4444d1140c6348c",
+        "2905a556153c0a18a67b116f3b8083a0592cfc4bffa335437cce6977e5d9d9af",
+        "b58e4a3dbce9a4c49f7f9771d7ec38111f7509987a04507883d69d0d775a0207",
+        "c00afdb055384c57fcbbc5c0d7b6737a7e2a6af9c8c1a488e8ffae0b62aec686",
+        "ac325f963a75960d1fcaa43755c0461197a631df0ed64602c8064376ffb109ce",
+        "37fb00e66bb25e58395a193dd4968e85614bb8c51df44f847466aa8a58c78e7e",
+        "c602c11463b366bbbe721bf0fa9dd9f9c1e178d265bb47eb977db375d47a1300",
+        "087f999240b102bf4fff40d740a7dd3e2b90a77b20d758e826ebfbad68ade402",
+        "63690ee1734aadb86afc07e9cd45b8975f1de2c0dc5151ebece54e564c7ab3d5",
+        "1424f9a820d3fb5274201427e96c47d6fe6930f05b80a7e872291273c9258a5d",
+        "ac325f963a75960d1fcaa43755c0461197a631df0ed64602c8064376ffb109ce",
+        "06c195cd50c0303e0b934fe3303bd93aba167e524aaf42827c3905e31881c44e",
+        "24db9ba8b0c5f4c12d4daedc61715084720c19b5843069768bf608cb3ad5041b",
+        "30aec9cfe776dbf8fb9068cb0fa4b6c78ed00ca3f1812f441403db224edffb03",
+        "ba89024fe7f2eef3994187c195ad3185ea2acc9a038fabc29880622d0dc84a4d",
+        "be47c04fd39ae91217dacfe9ec4a374019b06c46b06889b7876711bcb34b8600",
+        "7a1f494b6b0c669aba79ae02ae91fa9cfd64ef10d6a2393c82a578e92c0663e6",
+        "b135f09166d34f9bf2b9c48fe3e504bd951b73573ff8efa7a67fd25eaf13fe3e",
+        "e2f18a74836d66f886e50387d3b2514c7eae0172fec1d02549498ac3dd2da733",
+        "a6e52f5a306aa0f9c8d456ef6fae7ef7aa43e18079e704bbe2dcaf2d7fa0a0e0",
+        "5b2b5af673bd063c9952b518e276e9987ab3b6ae2857e1e303f7ee4def9d3d2b",
+        "6b4b0a1fb90a3afd24930aa2a487bbda5a3416865111d6a42ac6712ae1c5b0a5",
+        "69d2873f1a86581ee41bea18faad223ec385c4763a620cd1682694f173cc8b9e"
+      ],
+      "visibleSoloWhitelist": false,
+      "bloqueada": true,
+      "passSalt": "153bcbbac0d755348417991fea3b21ad",
+      "hash": "df914251e76cd84532d8b0dc19a6c3398c6757ba3e8b97fd2f3e531ac09b3303"
     }
   ]
 }
