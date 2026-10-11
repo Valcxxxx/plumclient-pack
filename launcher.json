@@ -23,7 +23,7 @@
       "texto": "El dia 11 de octubre tendremos beatatest de rendimiento en ChafaSafio 3!!"
     }
   ],
-  "generado": "2026-10-11T18:19:26.417Z",
+  "generado": "2026-10-11T18:40:16.532Z",
   "instancias": [
     {
       "id": "squids",
@@ -101,7 +101,9 @@
         "7003677de3557e65964290cf7fef8131ce5efbe7852e4094f707dbf7ec3ce02c",
         "698090be5618ad179c1a492df482e851e99d335afae4b20b183ca655ebace3c1",
         "8b244538cf529b00b93aaac40e20ca4d1edd3c006dcc25cf39c49a56da4eae49",
-        "479830be712caf696523dc340abc4fdc11026e2cacf507e1dbcccd39d73ad25a"
+        "479830be712caf696523dc340abc4fdc11026e2cacf507e1dbcccd39d73ad25a",
+        "c6343964764be8c4eb3ff22ad3ded78f80650ad3b0b3cb588b49129b6180b83c",
+        "c651c2bf6645801a783ee08b5260b0731d3a620ff3f0cccf978b84df67bd35e5"
       ],
       "visibleSoloWhitelist": true,
       "bloqueada": true,
