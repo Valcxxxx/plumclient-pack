@@ -23,7 +23,7 @@
       "texto": "El dia 11 de octubre tendremos beatatest de rendimiento en ChafaSafio 3!!"
     }
   ],
-  "generado": "2026-10-11T20:03:57.436Z",
+  "generado": "2026-10-12T21:18:07.904Z",
   "instancias": [
     {
       "id": "squids",
@@ -109,31 +109,6 @@
       "bloqueada": true,
       "passSalt": "c7b8ab3066a3094e5c77613d54189192",
       "hash": "12824060bbf668e5469ce00f5a1e4cde81c54ea8eb1a2b1ff95e4ca34b086640"
-    },
-    {
-      "id": "chafsafio-betsatest",
-      "nombre": "ChafaSafio 3 - Betatest ",
-      "descripcion": "Instancia prueba Proximo evento...",
-      "imagen": "instancias/chafsafio-betsatest/portada.png",
-      "logo": "instancias/chafsafio-betsatest/logo.png",
-      "minecraft": "1.20.1",
-      "loader": "forge",
-      "loaderVersion": "47.4.10",
-      "servidor": "",
-      "estado": "abierto",
-      "fecha": "",
-      "oculto": false,
-      "soloPremium": false,
-      "ramMinima": 4096,
-      "mods": 57,
-      "manifest": "instancias/chafsafio-betsatest/manifest.enc",
-      "protegido": true,
-      "keySalt": "d4874eda34d52d3a87da485392044b6d",
-      "borrarAlCerrar": true,
-      "whitelist": [],
-      "bloqueada": true,
-      "passSalt": "153bcbbac0d755348417991fea3b21ad",
-      "hash": "df914251e76cd84532d8b0dc19a6c3398c6757ba3e8b97fd2f3e531ac09b3303"
     }
   ]
 }
