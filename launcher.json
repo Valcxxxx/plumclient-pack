@@ -23,7 +23,7 @@
       "texto": "El dia 11 de octubre tendremos beatatest de rendimiento en ChafaSafio 3!!"
     }
   ],
-  "generado": "2026-10-13T16:57:46.831Z",
+  "generado": "2026-10-13T17:07:06.334Z",
   "instancias": [
     {
       "id": "squids",
@@ -118,9 +118,9 @@
       "descripcion": "Instncia ghex royale trabajos",
       "imagen": "instancias/ghexroyale/portada.png",
       "logo": "instancias/ghexroyale/logo.png",
-      "minecraft": "1.20.1",
-      "loader": "forge",
-      "loaderVersion": "47.4.10",
+      "minecraft": "1.21.1",
+      "loader": "fabric",
+      "loaderVersion": "0.16.14",
       "servidor": "",
       "estado": "trabajos",
       "fecha": "",
