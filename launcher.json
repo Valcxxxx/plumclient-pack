@@ -23,7 +23,7 @@
       "texto": "El dia 11 de octubre tendremos beatatest de rendimiento en ChafaSafio 3!!"
     }
   ],
-  "generado": "2026-10-13T19:36:49.214Z",
+  "generado": "2026-10-13T19:43:16.015Z",
   "instancias": [
     {
       "id": "squids",
@@ -111,61 +111,6 @@
       "bloqueada": true,
       "passSalt": "c7b8ab3066a3094e5c77613d54189192",
       "hash": "12824060bbf668e5469ce00f5a1e4cde81c54ea8eb1a2b1ff95e4ca34b086640"
-    },
-    {
-      "id": "ghexroyale",
-      "nombre": "Ghex Royale",
-      "descripcion": "Instncia ghex royale trabajos",
-      "imagen": "instancias/ghexroyale/portada.png",
-      "logo": "instancias/ghexroyale/logo.png",
-      "minecraft": "1.21.1",
-      "loader": "fabric",
-      "loaderVersion": "0.18.4",
-      "servidor": "",
-      "estado": "trabajos",
-      "fecha": "",
-      "oculto": false,
-      "soloPremium": false,
-      "ramMinima": 4096,
-      "mods": 16,
-      "manifest": "instancias/ghexroyale/manifest.enc",
-      "protegido": true,
-      "keySalt": "d0c91afeed7474a7e1e501699982d9df",
-      "borrarAlCerrar": true,
-      "whitelistSalt": "baf85f68c9c9730892edde7526482472",
-      "whitelist": [
-        "51b657a856e100baddae613f258a5ebc242f4e4463dfdd4e7dd0f5d5118eb037",
-        "9905225a50e3a1e033f7ffb74c4d06f767bd4db28bfeeb7d1da8cd76b7db9711",
-        "980e3adf7010eb34b77bf4deb235a1ff7658ca960bb84837cea1e488d5c4e779",
-        "cb87ac97b658d581f5f83547a9cc6c0a4305e8373006c4a0e6ed19bc425040a4",
-        "20e1d6cfee76a80ed27515f9377614bf04f3870a24c5efac0df4aab2af6874ad",
-        "711bd3a191914e244552dc6addad2f70ea560b6c02262d737309d966f975a4dc",
-        "2ef39a555cd4714a0321086a44629d3f521b4eb30055c138ce9de073cb0d98c4",
-        "8f17662e7ca53a8ce3effad200d868712cd99b60d0c757afeee4ad29cf49c883",
-        "5c39adf3e0fb217ad6cca5499250f8b260e381ce26560cbde11c5bf3e6dac28b",
-        "0a1199caad086482dadc28653f5397332f32fe7f05755f372cbbb943d907af3a",
-        "2e0f3a312c63e1b5adceac8788fab04f831c0ce3e2796a72bf9100b6381880f8",
-        "1552c3bce9397f45a638b0bb4c557752b3aa1f06282ecacf0b1c4b3c46f17dc2",
-        "2ef39a555cd4714a0321086a44629d3f521b4eb30055c138ce9de073cb0d98c4",
-        "a66b03195b2786e39d83007d724301e648bd9b2e081407cd5a2858bcdddea4e6",
-        "5dec3fbb409f0459a02c5456f03eff866c74884e722edd79d8ba316f7d12b926",
-        "6871ae1765f8e0dc22117bfed20dd1c8509f8710a0e1ef64241f4f8987a38b33",
-        "1ad37093d02e4999ea7eae967e866062b513482aaa0349b557e2fe7d53836783",
-        "96241ef115fd6d2e04dd39fe078e2c3c6af84dff89c372ab8b0341d84ad0e755",
-        "118b44ae3f9f0c2745e1ffe9d61183b0140c64231b5c75b27eb7b108fda1c5fa",
-        "48b7513b1eb766075e64159578bf2788650cf96ccc9ca9f87d3f725c089a3972",
-        "c4a89a39a33459b1124080e028f78e6246e32e5409779e3beebc63d268064ec8",
-        "18230b890bda1a14d86c3700147fe2d285d0cc92f27aa92980582ad001c6f627",
-        "a2c708e274c9205d4769b2ff1c55f56f290fb5a46f18c2e51f02bf56696d429f",
-        "5c127b431254c7b5a82dab4343adaa566213c018f392291a043adc3336454fc0",
-        "fff8d385f1778e407d94e1e2fbb655a51ccdb23370c00b133510a5c336bf351c",
-        "2f3d581cd721ca981a3158ba3b3c09615a6f599033a78e94eea039424d4f05da",
-        "caee8d6699fc76b6f9e83257763d5ab31cf762dc71fc175196b98e27b7e02a45"
-      ],
-      "visibleSoloWhitelist": true,
-      "bloqueada": true,
-      "passSalt": "c31dbb3a2ea3e6a5904190c915992a44",
-      "hash": "d47d332496527f266e2c56c8195baf37e046d384a8ad52e822b8ea5f760c36ae"
     }
   ]
 }
