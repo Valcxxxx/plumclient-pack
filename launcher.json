@@ -23,7 +23,7 @@
       "texto": "El dia 11 de octubre tendremos beatatest de rendimiento en ChafaSafio 3!!"
     }
   ],
-  "generado": "2026-10-13T18:03:54.023Z",
+  "generado": "2026-10-13T19:36:49.214Z",
   "instancias": [
     {
       "id": "squids",
@@ -120,7 +120,7 @@
       "logo": "instancias/ghexroyale/logo.png",
       "minecraft": "1.21.1",
       "loader": "fabric",
-      "loaderVersion": "0.16.14",
+      "loaderVersion": "0.18.4",
       "servidor": "",
       "estado": "trabajos",
       "fecha": "",
