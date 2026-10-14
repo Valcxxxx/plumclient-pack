@@ -23,7 +23,7 @@
       "texto": "El dia 11 de octubre tendremos beatatest de rendimiento en ChafaSafio 3!!"
     }
   ],
-  "generado": "2026-10-14T20:44:54.210Z",
+  "generado": "2026-10-14T22:01:48.259Z",
   "instancias": [
     {
       "id": "squids",
@@ -123,7 +123,7 @@
       "loader": "forge",
       "loaderVersion": "47.4.10",
       "servidor": "",
-      "estado": "abierto",
+      "estado": "cerrado",
       "fecha": "",
       "oculto": false,
       "soloPremium": false,
