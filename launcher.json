@@ -23,7 +23,7 @@
       "texto": "El dia 11 de octubre tendremos beatatest de rendimiento en ChafaSafio 3!!"
     }
   ],
-  "generado": "2026-10-15T15:57:02.399Z",
+  "generado": "2026-10-15T17:04:11.349Z",
   "instancias": [
     {
       "id": "squids",
@@ -129,7 +129,7 @@
       "oculto": false,
       "soloPremium": false,
       "ramMinima": 4096,
-      "mods": 55,
+      "mods": 54,
       "manifest": "instancias/chafasafiobetatest/manifest.enc",
       "protegido": true,
       "keySalt": "fb15b0ea02600a409d6a1feba88d8b64",
