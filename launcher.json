@@ -23,7 +23,7 @@
       "texto": "El dia 11 de octubre tendremos beatatest de rendimiento en ChafaSafio 3!!"
     }
   ],
-  "generado": "2026-10-15T17:04:11.349Z",
+  "generado": "2026-10-16T04:42:27.171Z",
   "instancias": [
     {
       "id": "squids",
@@ -70,7 +70,7 @@
       "oculto": false,
       "soloPremium": false,
       "ramMinima": 4096,
-      "mods": 53,
+      "mods": 54,
       "manifest": "instancias/chafasafio/manifest.enc",
       "protegido": true,
       "keySalt": "83b5f22aa377ab829fa2616adcc66935",
@@ -115,29 +115,29 @@
       "hash": "12824060bbf668e5469ce00f5a1e4cde81c54ea8eb1a2b1ff95e4ca34b086640"
     },
     {
-      "id": "chafasafiobetatest",
-      "nombre": "Chafasafio 3 Betatest",
-      "descripcion": "Instancia Betatest de Chafasafio 3!!",
-      "imagen": "instancias/chafasafiobetatest/portada.png",
-      "logo": "instancias/chafasafiobetatest/logo.png",
+      "id": "chafaoficial",
+      "nombre": "ChafaSafio 3 Oficial",
+      "descripcion": "CHAFASAFIO YA ESTA AQUI!! Bienvenido PARTICIPANTE",
+      "imagen": "instancias/chafaoficial/portada.png",
+      "logo": "instancias/chafaoficial/logo.png",
       "minecraft": "1.20.1",
       "loader": "forge",
       "loaderVersion": "47.4.10",
       "servidor": "",
-      "estado": "cerrado",
+      "estado": "trabajos",
       "fecha": "",
       "oculto": false,
       "soloPremium": false,
       "ramMinima": 4096,
-      "mods": 54,
-      "manifest": "instancias/chafasafiobetatest/manifest.enc",
+      "mods": 53,
+      "manifest": "instancias/chafaoficial/manifest.enc",
       "protegido": true,
-      "keySalt": "fb15b0ea02600a409d6a1feba88d8b64",
+      "keySalt": "98b517af2935ecef44a57d40cf0cae6c",
       "borrarAlCerrar": true,
       "whitelist": [],
       "bloqueada": true,
-      "passSalt": "f1265ea91fb777eeccfab3e43ed0f9c4",
-      "hash": "32e79f29c2d026e7ead69cadd715107bc39bab90ba7462aa3ad48861fa794be0"
+      "passSalt": "43b8eb7857f4606a99a110a21d609abf",
+      "hash": "c23ab246ab838ebd6e92a07f07e202d3a1e915ad210e29c214f428e766a4ca92"
     }
   ]
 }
